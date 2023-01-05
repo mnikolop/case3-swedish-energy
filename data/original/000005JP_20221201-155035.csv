@@ -1,0 +1,331 @@
+"br�nsletyp";"produktion";"anl�ggning";"2022K1";"2022k2"
+"eldningsolja nr 1 (1000 m3)";"total produktion";"samtliga anl�ggningar";..;..
+"eldningsolja nr 1 (1000 m3)";"total produktion";"v�rmekraftverk";..;..
+"eldningsolja nr 1 (1000 m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"eldningsolja nr 1 (1000 m3)";"total produktion";"kraftv�rmeverk";..;..
+"eldningsolja nr 1 (1000 m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"eldningsolja nr 1 (1000 m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"eldningsolja nr 1 (1000 m3)";"produktion av el";"v�rmekraftverk";1;0
+"eldningsolja nr 1 (1000 m3)";"produktion av el";"industriella mottrycksanl�ggningar";1;1
+"eldningsolja nr 1 (1000 m3)";"produktion av el";"kraftv�rmeverk";2;1
+"eldningsolja nr 1 (1000 m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"eldningsolja nr 1 (1000 m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"eldningsolja nr 1 (1000 m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"eldningsolja nr 1 (1000 m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"eldningsolja nr 1 (1000 m3)";"produktion av hetvatten";"kraftv�rmeverk";13;5
+"eldningsolja nr 1 (1000 m3)";"produktion av hetvatten";"frist�ende v�rmeverk";9;4
+"eldningsolja nr 2-6 (1000 m3)";"total produktion";"samtliga anl�ggningar";..;..
+"eldningsolja nr 2-6 (1000 m3)";"total produktion";"v�rmekraftverk";..;..
+"eldningsolja nr 2-6 (1000 m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"eldningsolja nr 2-6 (1000 m3)";"total produktion";"kraftv�rmeverk";..;..
+"eldningsolja nr 2-6 (1000 m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"eldningsolja nr 2-6 (1000 m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"eldningsolja nr 2-6 (1000 m3)";"produktion av el";"v�rmekraftverk";6;14
+"eldningsolja nr 2-6 (1000 m3)";"produktion av el";"industriella mottrycksanl�ggningar";2;3
+"eldningsolja nr 2-6 (1000 m3)";"produktion av el";"kraftv�rmeverk";1;0
+"eldningsolja nr 2-6 (1000 m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"eldningsolja nr 2-6 (1000 m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"eldningsolja nr 2-6 (1000 m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"eldningsolja nr 2-6 (1000 m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"eldningsolja nr 2-6 (1000 m3)";"produktion av hetvatten";"kraftv�rmeverk";4;2
+"eldningsolja nr 2-6 (1000 m3)";"produktion av hetvatten";"frist�ende v�rmeverk";2;0
+"bioolja (1000 m3)";"total produktion";"samtliga anl�ggningar";..;..
+"bioolja (1000 m3)";"total produktion";"v�rmekraftverk";..;..
+"bioolja (1000 m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"bioolja (1000 m3)";"total produktion";"kraftv�rmeverk";..;..
+"bioolja (1000 m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"bioolja (1000 m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"bioolja (1000 m3)";"produktion av el";"v�rmekraftverk";..;..
+"bioolja (1000 m3)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"bioolja (1000 m3)";"produktion av el";"kraftv�rmeverk";..;..
+"bioolja (1000 m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"bioolja (1000 m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"bioolja (1000 m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"bioolja (1000 m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"bioolja (1000 m3)";"produktion av hetvatten";"kraftv�rmeverk";14;6
+"bioolja (1000 m3)";"produktion av hetvatten";"frist�ende v�rmeverk";16;4
+"stenkol (1000 ton)";"total produktion";"samtliga anl�ggningar";..;..
+"stenkol (1000 ton)";"total produktion";"v�rmekraftverk";..;..
+"stenkol (1000 ton)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"stenkol (1000 ton)";"total produktion";"kraftv�rmeverk";..;..
+"stenkol (1000 ton)";"total produktion";"frist�ende v�rmeverk";..;..
+"stenkol (1000 ton)";"produktion av el";"samtliga anl�ggningar";..;..
+"stenkol (1000 ton)";"produktion av el";"v�rmekraftverk";..;..
+"stenkol (1000 ton)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"stenkol (1000 ton)";"produktion av el";"kraftv�rmeverk";1;..
+"stenkol (1000 ton)";"produktion av el";"frist�ende v�rmeverk";..;..
+"stenkol (1000 ton)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"stenkol (1000 ton)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"stenkol (1000 ton)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"stenkol (1000 ton)";"produktion av hetvatten";"kraftv�rmeverk";1;..
+"stenkol (1000 ton)";"produktion av hetvatten";"frist�ende v�rmeverk";..;..
+"gasol (1000 ton)";"total produktion";"samtliga anl�ggningar";..;..
+"gasol (1000 ton)";"total produktion";"v�rmekraftverk";..;..
+"gasol (1000 ton)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"gasol (1000 ton)";"total produktion";"kraftv�rmeverk";..;..
+"gasol (1000 ton)";"total produktion";"frist�ende v�rmeverk";..;..
+"gasol (1000 ton)";"produktion av el";"samtliga anl�ggningar";..;..
+"gasol (1000 ton)";"produktion av el";"v�rmekraftverk";..;..
+"gasol (1000 ton)";"produktion av el";"industriella mottrycksanl�ggningar";0;..
+"gasol (1000 ton)";"produktion av el";"kraftv�rmeverk";0;0
+"gasol (1000 ton)";"produktion av el";"frist�ende v�rmeverk";..;..
+"gasol (1000 ton)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"gasol (1000 ton)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"gasol (1000 ton)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"gasol (1000 ton)";"produktion av hetvatten";"kraftv�rmeverk";0;..
+"gasol (1000 ton)";"produktion av hetvatten";"frist�ende v�rmeverk";0;0
+"tr� (flis, bark, sp�n) (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av el";"v�rmekraftverk";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";49;43
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av el";"kraftv�rmeverk";159;79
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";576;275
+"tr� (flis, bark, sp�n) (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";189;89
+"tr�bricketter (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"tr�bricketter (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"tr�bricketter (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"tr�bricketter (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"tr�bricketter (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"tr�bricketter (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"tr�bricketter (1000 toe)";"produktion av el";"v�rmekraftverk";..;..
+"tr�bricketter (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";6;2
+"tr�bricketter (1000 toe)";"produktion av el";"kraftv�rmeverk";14;1
+"tr�bricketter (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"tr�bricketter (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"tr�bricketter (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"tr�bricketter (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"tr�bricketter (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";71;16
+"tr�bricketter (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";42;17
+"avlutar och tallolja (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"avlutar och tallolja (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"avlutar och tallolja (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"avlutar och tallolja (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"avlutar och tallolja (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"avlutar och tallolja (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"avlutar och tallolja (1000 toe)";"produktion av el";"v�rmekraftverk";..;..
+"avlutar och tallolja (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";268;239
+"avlutar och tallolja (1000 toe)";"produktion av el";"kraftv�rmeverk";0;0
+"avlutar och tallolja (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"avlutar och tallolja (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"avlutar och tallolja (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"avlutar och tallolja (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"avlutar och tallolja (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";1;0
+"avlutar och tallolja (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";10;1
+"avfall (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"avfall (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"avfall (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"avfall (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"avfall (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"avfall (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"avfall (1000 toe)";"produktion av el";"v�rmekraftverk";..;..
+"avfall (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"avfall (1000 toe)";"produktion av el";"kraftv�rmeverk";84;82
+"avfall (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"avfall (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"avfall (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"avfall (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"avfall (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";421;319
+"avfall (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";12;9
+"torv (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"torv (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"torv (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"torv (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"torv (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"torv (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"torv (1000 toe)";"produktion av el";"v�rmekraftverk";..;..
+"torv (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";0;0
+"torv (1000 toe)";"produktion av el";"kraftv�rmeverk";2;1
+"torv (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"torv (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"torv (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"torv (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"torv (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";10;3
+"torv (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";0;0
+"koksugnsgas (miljoner m3)";"total produktion";"samtliga anl�ggningar";..;..
+"koksugnsgas (miljoner m3)";"total produktion";"v�rmekraftverk";..;..
+"koksugnsgas (miljoner m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"koksugnsgas (miljoner m3)";"total produktion";"kraftv�rmeverk";..;..
+"koksugnsgas (miljoner m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"koksugnsgas (miljoner m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"koksugnsgas (miljoner m3)";"produktion av el";"v�rmekraftverk";3;3
+"koksugnsgas (miljoner m3)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"koksugnsgas (miljoner m3)";"produktion av el";"kraftv�rmeverk";2;2
+"koksugnsgas (miljoner m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"koksugnsgas (miljoner m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"koksugnsgas (miljoner m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"koksugnsgas (miljoner m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"koksugnsgas (miljoner m3)";"produktion av hetvatten";"kraftv�rmeverk";4;1
+"koksugnsgas (miljoner m3)";"produktion av hetvatten";"frist�ende v�rmeverk";1;0
+"masugnsgas (miljoner m3)";"total produktion";"samtliga anl�ggningar";..;..
+"masugnsgas (miljoner m3)";"total produktion";"v�rmekraftverk";..;..
+"masugnsgas (miljoner m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"masugnsgas (miljoner m3)";"total produktion";"kraftv�rmeverk";..;..
+"masugnsgas (miljoner m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"masugnsgas (miljoner m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"masugnsgas (miljoner m3)";"produktion av el";"v�rmekraftverk";148;162
+"masugnsgas (miljoner m3)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"masugnsgas (miljoner m3)";"produktion av el";"kraftv�rmeverk";143;300
+"masugnsgas (miljoner m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"masugnsgas (miljoner m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"masugnsgas (miljoner m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"masugnsgas (miljoner m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"masugnsgas (miljoner m3)";"produktion av hetvatten";"kraftv�rmeverk";333;164
+"masugnsgas (miljoner m3)";"produktion av hetvatten";"frist�ende v�rmeverk";35;14
+"k�rnbr�nsle (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"k�rnbr�nsle (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"k�rnbr�nsle (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"k�rnbr�nsle (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"k�rnbr�nsle (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av el";"v�rmekraftverk";3529;2989
+"k�rnbr�nsle (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av el";"kraftv�rmeverk";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";..;..
+"k�rnbr�nsle (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";..;..
+"naturgas (miljoner m3)";"total produktion";"samtliga anl�ggningar";..;..
+"naturgas (miljoner m3)";"total produktion";"v�rmekraftverk";..;..
+"naturgas (miljoner m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"naturgas (miljoner m3)";"total produktion";"kraftv�rmeverk";..;..
+"naturgas (miljoner m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"naturgas (miljoner m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"naturgas (miljoner m3)";"produktion av el";"v�rmekraftverk";..;..
+"naturgas (miljoner m3)";"produktion av el";"industriella mottrycksanl�ggningar";2;0
+"naturgas (miljoner m3)";"produktion av el";"kraftv�rmeverk";3;0
+"naturgas (miljoner m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"naturgas (miljoner m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"naturgas (miljoner m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"naturgas (miljoner m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"naturgas (miljoner m3)";"produktion av hetvatten";"kraftv�rmeverk";12;3
+"naturgas (miljoner m3)";"produktion av hetvatten";"frist�ende v�rmeverk";4;1
+"flytande naturgas (LNG) (miljoner m3)";"total produktion";"samtliga anl�ggningar";..;..
+"flytande naturgas (LNG) (miljoner m3)";"total produktion";"v�rmekraftverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"flytande naturgas (LNG) (miljoner m3)";"total produktion";"kraftv�rmeverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"total produktion";"frist�ende v�rmeverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av el";"samtliga anl�ggningar";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av el";"v�rmekraftverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av el";"industriella mottrycksanl�ggningar";0;0
+"flytande naturgas (LNG) (miljoner m3)";"produktion av el";"kraftv�rmeverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av el";"frist�ende v�rmeverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av hetvatten";"kraftv�rmeverk";..;..
+"flytande naturgas (LNG) (miljoner m3)";"produktion av hetvatten";"frist�ende v�rmeverk";..;..
+"�vriga br�nslen (1000 toe)";"total produktion";"samtliga anl�ggningar";..;..
+"�vriga br�nslen (1000 toe)";"total produktion";"v�rmekraftverk";..;..
+"�vriga br�nslen (1000 toe)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"�vriga br�nslen (1000 toe)";"total produktion";"kraftv�rmeverk";..;..
+"�vriga br�nslen (1000 toe)";"total produktion";"frist�ende v�rmeverk";..;..
+"�vriga br�nslen (1000 toe)";"produktion av el";"samtliga anl�ggningar";..;..
+"�vriga br�nslen (1000 toe)";"produktion av el";"v�rmekraftverk";0;0
+"�vriga br�nslen (1000 toe)";"produktion av el";"industriella mottrycksanl�ggningar";3;2
+"�vriga br�nslen (1000 toe)";"produktion av el";"kraftv�rmeverk";46;18
+"�vriga br�nslen (1000 toe)";"produktion av el";"frist�ende v�rmeverk";..;..
+"�vriga br�nslen (1000 toe)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"�vriga br�nslen (1000 toe)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"�vriga br�nslen (1000 toe)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"�vriga br�nslen (1000 toe)";"produktion av hetvatten";"kraftv�rmeverk";175;66
+"�vriga br�nslen (1000 toe)";"produktion av hetvatten";"frist�ende v�rmeverk";12;5
+"elpannor (GWh)";"total produktion";"samtliga anl�ggningar";..;..
+"elpannor (GWh)";"total produktion";"v�rmekraftverk";..;..
+"elpannor (GWh)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"elpannor (GWh)";"total produktion";"kraftv�rmeverk";..;..
+"elpannor (GWh)";"total produktion";"frist�ende v�rmeverk";..;..
+"elpannor (GWh)";"produktion av el";"samtliga anl�ggningar";..;..
+"elpannor (GWh)";"produktion av el";"v�rmekraftverk";..;..
+"elpannor (GWh)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"elpannor (GWh)";"produktion av el";"kraftv�rmeverk";..;..
+"elpannor (GWh)";"produktion av el";"frist�ende v�rmeverk";..;..
+"elpannor (GWh)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"elpannor (GWh)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"elpannor (GWh)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"elpannor (GWh)";"produktion av hetvatten";"kraftv�rmeverk";41;6
+"elpannor (GWh)";"produktion av hetvatten";"frist�ende v�rmeverk";17;8
+"solf�ngare (GWh)";"total produktion";"samtliga anl�ggningar";..;..
+"solf�ngare (GWh)";"total produktion";"v�rmekraftverk";..;..
+"solf�ngare (GWh)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"solf�ngare (GWh)";"total produktion";"kraftv�rmeverk";..;..
+"solf�ngare (GWh)";"total produktion";"frist�ende v�rmeverk";..;..
+"solf�ngare (GWh)";"produktion av el";"samtliga anl�ggningar";..;..
+"solf�ngare (GWh)";"produktion av el";"v�rmekraftverk";..;..
+"solf�ngare (GWh)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"solf�ngare (GWh)";"produktion av el";"kraftv�rmeverk";..;..
+"solf�ngare (GWh)";"produktion av el";"frist�ende v�rmeverk";..;..
+"solf�ngare (GWh)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"solf�ngare (GWh)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"solf�ngare (GWh)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"solf�ngare (GWh)";"produktion av hetvatten";"kraftv�rmeverk";0;0
+"solf�ngare (GWh)";"produktion av hetvatten";"frist�ende v�rmeverk";0;0
+"v�rmepumpar (GWh)";"total produktion";"samtliga anl�ggningar";..;..
+"v�rmepumpar (GWh)";"total produktion";"v�rmekraftverk";..;..
+"v�rmepumpar (GWh)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"v�rmepumpar (GWh)";"total produktion";"kraftv�rmeverk";..;..
+"v�rmepumpar (GWh)";"total produktion";"frist�ende v�rmeverk";..;..
+"v�rmepumpar (GWh)";"produktion av el";"samtliga anl�ggningar";..;..
+"v�rmepumpar (GWh)";"produktion av el";"v�rmekraftverk";..;..
+"v�rmepumpar (GWh)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"v�rmepumpar (GWh)";"produktion av el";"kraftv�rmeverk";..;..
+"v�rmepumpar (GWh)";"produktion av el";"frist�ende v�rmeverk";..;..
+"v�rmepumpar (GWh)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"v�rmepumpar (GWh)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"v�rmepumpar (GWh)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"v�rmepumpar (GWh)";"produktion av hetvatten";"kraftv�rmeverk";467;149
+"v�rmepumpar (GWh)";"produktion av hetvatten";"frist�ende v�rmeverk";322;139
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"total produktion";"samtliga anl�ggningar";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"total produktion";"v�rmekraftverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"total produktion";"kraftv�rmeverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"total produktion";"frist�ende v�rmeverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av el";"samtliga anl�ggningar";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av el";"v�rmekraftverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av el";"kraftv�rmeverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av el";"frist�ende v�rmeverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av hetvatten";"kraftv�rmeverk";1636;707
+"tillf�rd v�rme fr�n andra sektorer (GWh)";"produktion av hetvatten";"frist�ende v�rmeverk";767;360
+"spillv�rme (GWh)";"total produktion";"samtliga anl�ggningar";..;..
+"spillv�rme (GWh)";"total produktion";"v�rmekraftverk";..;..
+"spillv�rme (GWh)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"spillv�rme (GWh)";"total produktion";"kraftv�rmeverk";..;..
+"spillv�rme (GWh)";"total produktion";"frist�ende v�rmeverk";..;..
+"spillv�rme (GWh)";"produktion av el";"samtliga anl�ggningar";..;..
+"spillv�rme (GWh)";"produktion av el";"v�rmekraftverk";..;..
+"spillv�rme (GWh)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"spillv�rme (GWh)";"produktion av el";"kraftv�rmeverk";..;..
+"spillv�rme (GWh)";"produktion av el";"frist�ende v�rmeverk";..;..
+"spillv�rme (GWh)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"spillv�rme (GWh)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"spillv�rme (GWh)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"spillv�rme (GWh)";"produktion av hetvatten";"kraftv�rmeverk";513;400
+"spillv�rme (GWh)";"produktion av hetvatten";"frist�ende v�rmeverk";684;331
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"total produktion";"samtliga anl�ggningar";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"total produktion";"v�rmekraftverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"total produktion";"industriella mottrycksanl�ggningar";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"total produktion";"kraftv�rmeverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"total produktion";"frist�ende v�rmeverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av el";"samtliga anl�ggningar";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av el";"v�rmekraftverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av el";"industriella mottrycksanl�ggningar";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av el";"kraftv�rmeverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av el";"frist�ende v�rmeverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av hetvatten";"samtliga anl�ggningar";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av hetvatten";"v�rmekraftverk";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av hetvatten";"industriella mottrycksanl�ggningar";..;..
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av hetvatten";"kraftv�rmeverk";131;36
+"anv�ndning av el f�r drift av v�rmepumpar (GWh)";"produktion av hetvatten";"frist�ende v�rmeverk";84;27
