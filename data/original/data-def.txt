@@ -1,0 +1,5036 @@
+000000B6_20221201-162102.csv
+region
+varuslag
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+
+000000B6_20221201-162137.csv
+region
+varuslag
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+
+000000B6_20221201-162146.csv
+region
+varuslag
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+
+000000BQ_20221201-141152.csv
+region
+produktionss�tt
+br�nsletyp
+2005
+2006
+2007
+2008
+
+000000BR_20221201-145212.csv
+region
+produktionss�tt
+br�nsletyp
+2005
+2006
+2007
+2008
+
+000000BS_20221201-145418.csv
+region
+f�rbrukarkategori
+br�nsletyp
+2005
+2006
+2007
+2008
+
+000000W8_20221201-162326.csv
+anv�ndningsomr�de
+elomr�de
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
+000001D4_20221201-160300.csv
+br�nsleslag
+Lagerf�r�ndringar (ton) 2018M01
+Lagerf�r�ndringar (ton) 2018M02
+Lagerf�r�ndringar (ton) 2018M03
+Lagerf�r�ndringar (ton) 2018M04
+Lagerf�r�ndringar (ton) 2018M05
+Lagerf�r�ndringar (ton) 2018M06
+Lagerf�r�ndringar (ton) 2018M07
+Lagerf�r�ndringar (ton) 2018M08
+Lagerf�r�ndringar (ton) 2018M09
+Lagerf�r�ndringar (ton) 2018M10
+Lagerf�r�ndringar (ton) 2018M11
+Lagerf�r�ndringar (ton) 2018M12
+Lagerf�r�ndringar (ton) 2019M01
+Lagerf�r�ndringar (ton) 2019M02
+Lagerf�r�ndringar (ton) 2019M03
+Lagerf�r�ndringar (ton) 2019M04
+Lagerf�r�ndringar (ton) 2019M05
+Lagerf�r�ndringar (ton) 2019M06
+Lagerf�r�ndringar (ton) 2019M07
+Lagerf�r�ndringar (ton) 2019M08
+Lagerf�r�ndringar (ton) 2019M09
+Lagerf�r�ndringar (ton) 2019M10
+Lagerf�r�ndringar (ton) 2019M11
+Lagerf�r�ndringar (ton) 2019M12
+Lagerf�r�ndringar (ton) 2020M01
+Lagerf�r�ndringar (ton) 2020M02
+Lagerf�r�ndringar (ton) 2020M03
+Lagerf�r�ndringar (ton) 2020M04
+Lagerf�r�ndringar (ton) 2020M05
+Lagerf�r�ndringar (ton) 2020M06
+Lagerf�r�ndringar (ton) 2020M07
+Lagerf�r�ndringar (ton) 2020M08
+Lagerf�r�ndringar (ton) 2020M09
+Lagerf�r�ndringar (ton) 2020M10
+Lagerf�r�ndringar (ton) 2020M11
+Lagerf�r�ndringar (ton) 2020M12
+Lagerf�r�ndringar (ton) 2021M01
+Lagerf�r�ndringar (ton) 2021M02
+Lagerf�r�ndringar (ton) 2021M03
+Lagerf�r�ndringar (ton) 2021M04
+Lagerf�r�ndringar (ton) 2021M05
+Lagerf�r�ndringar (ton) 2021M06
+Lagerf�r�ndringar (ton) 2021M07
+Lagerf�r�ndringar (ton) 2021M08
+Lagerf�r�ndringar (ton) 2021M09
+Lagerf�r�ndringar (ton) 2021M10
+Lagerf�r�ndringar (ton) 2021M11
+Lagerf�r�ndringar (ton) 2021M12
+Lagerf�r�ndringar (ton) 2022M01
+Lagerf�r�ndringar (ton) 2022M02
+Lagerf�r�ndringar (ton) 2022M03
+Lagerf�r�ndringar (ton) 2022M04
+Lagerf�r�ndringar (ton) 2022M05
+Lagerf�r�ndringar (ton) 2022M06
+Lagerf�r�ndringar (ton) 2022M07
+Lagerf�r�ndringar (ton) 2022M08
+Lagerf�r�ndringar (ton) 2022M09
+Produktion (ton) 2018M01
+Produktion (ton) 2018M02
+Produktion (ton) 2018M03
+Produktion (ton) 2018M04
+Produktion (ton) 2018M05
+Produktion (ton) 2018M06
+Produktion (ton) 2018M07
+Produktion (ton) 2018M08
+Produktion (ton) 2018M09
+Produktion (ton) 2018M10
+Produktion (ton) 2018M11
+Produktion (ton) 2018M12
+Produktion (ton) 2019M01
+Produktion (ton) 2019M02
+Produktion (ton) 2019M03
+Produktion (ton) 2019M04
+Produktion (ton) 2019M05
+Produktion (ton) 2019M06
+Produktion (ton) 2019M07
+Produktion (ton) 2019M08
+Produktion (ton) 2019M09
+Produktion (ton) 2019M10
+Produktion (ton) 2019M11
+Produktion (ton) 2019M12
+Produktion (ton) 2020M01
+Produktion (ton) 2020M02
+Produktion (ton) 2020M03
+Produktion (ton) 2020M04
+Produktion (ton) 2020M05
+Produktion (ton) 2020M06
+Produktion (ton) 2020M07
+Produktion (ton) 2020M08
+Produktion (ton) 2020M09
+Produktion (ton) 2020M10
+Produktion (ton) 2020M11
+Produktion (ton) 2020M12
+Produktion (ton) 2021M01
+Produktion (ton) 2021M02
+Produktion (ton) 2021M03
+Produktion (ton) 2021M04
+Produktion (ton) 2021M05
+Produktion (ton) 2021M06
+Produktion (ton) 2021M07
+Produktion (ton) 2021M08
+Produktion (ton) 2021M09
+Produktion (ton) 2021M10
+Produktion (ton) 2021M11
+Produktion (ton) 2021M12
+Produktion (ton) 2022M01
+Produktion (ton) 2022M02
+Produktion (ton) 2022M03
+Produktion (ton) 2022M04
+Produktion (ton) 2022M05
+Produktion (ton) 2022M06
+Produktion (ton) 2022M07
+Produktion (ton) 2022M08
+Produktion (ton) 2022M09
+Import, inf�rsel (ton) 2018M01
+Import, inf�rsel (ton) 2018M02
+Import, inf�rsel (ton) 2018M03
+Import, inf�rsel (ton) 2018M04
+Import, inf�rsel (ton) 2018M05
+Import, inf�rsel (ton) 2018M06
+Import, inf�rsel (ton) 2018M07
+Import, inf�rsel (ton) 2018M08
+Import, inf�rsel (ton) 2018M09
+Import, inf�rsel (ton) 2018M10
+Import, inf�rsel (ton) 2018M11
+Import, inf�rsel (ton) 2018M12
+Import, inf�rsel (ton) 2019M01
+Import, inf�rsel (ton) 2019M02
+Import, inf�rsel (ton) 2019M03
+Import, inf�rsel (ton) 2019M04
+Import, inf�rsel (ton) 2019M05
+Import, inf�rsel (ton) 2019M06
+Import, inf�rsel (ton) 2019M07
+Import, inf�rsel (ton) 2019M08
+Import, inf�rsel (ton) 2019M09
+Import, inf�rsel (ton) 2019M10
+Import, inf�rsel (ton) 2019M11
+Import, inf�rsel (ton) 2019M12
+Import, inf�rsel (ton) 2020M01
+Import, inf�rsel (ton) 2020M02
+Import, inf�rsel (ton) 2020M03
+Import, inf�rsel (ton) 2020M04
+Import, inf�rsel (ton) 2020M05
+Import, inf�rsel (ton) 2020M06
+Import, inf�rsel (ton) 2020M07
+Import, inf�rsel (ton) 2020M08
+Import, inf�rsel (ton) 2020M09
+Import, inf�rsel (ton) 2020M10
+Import, inf�rsel (ton) 2020M11
+Import, inf�rsel (ton) 2020M12
+Import, inf�rsel (ton) 2021M01
+Import, inf�rsel (ton) 2021M02
+Import, inf�rsel (ton) 2021M03
+Import, inf�rsel (ton) 2021M04
+Import, inf�rsel (ton) 2021M05
+Import, inf�rsel (ton) 2021M06
+Import, inf�rsel (ton) 2021M07
+Import, inf�rsel (ton) 2021M08
+Import, inf�rsel (ton) 2021M09
+Import, inf�rsel (ton) 2021M10
+Import, inf�rsel (ton) 2021M11
+Import, inf�rsel (ton) 2021M12
+Import, inf�rsel (ton) 2022M01
+Import, inf�rsel (ton) 2022M02
+Import, inf�rsel (ton) 2022M03
+Import, inf�rsel (ton) 2022M04
+Import, inf�rsel (ton) 2022M05
+Import, inf�rsel (ton) 2022M06
+Import, inf�rsel (ton) 2022M07
+Import, inf�rsel (ton) 2022M08
+Import, inf�rsel (ton) 2022M09
+Export, utf�rsel (ton) 2018M01
+Export, utf�rsel (ton) 2018M02
+Export, utf�rsel (ton) 2018M03
+Export, utf�rsel (ton) 2018M04
+Export, utf�rsel (ton) 2018M05
+Export, utf�rsel (ton) 2018M06
+Export, utf�rsel (ton) 2018M07
+Export, utf�rsel (ton) 2018M08
+Export, utf�rsel (ton) 2018M09
+Export, utf�rsel (ton) 2018M10
+Export, utf�rsel (ton) 2018M11
+Export, utf�rsel (ton) 2018M12
+Export, utf�rsel (ton) 2019M01
+Export, utf�rsel (ton) 2019M02
+Export, utf�rsel (ton) 2019M03
+Export, utf�rsel (ton) 2019M04
+Export, utf�rsel (ton) 2019M05
+Export, utf�rsel (ton) 2019M06
+Export, utf�rsel (ton) 2019M07
+Export, utf�rsel (ton) 2019M08
+Export, utf�rsel (ton) 2019M09
+Export, utf�rsel (ton) 2019M10
+Export, utf�rsel (ton) 2019M11
+Export, utf�rsel (ton) 2019M12
+Export, utf�rsel (ton) 2020M01
+Export, utf�rsel (ton) 2020M02
+Export, utf�rsel (ton) 2020M03
+Export, utf�rsel (ton) 2020M04
+Export, utf�rsel (ton) 2020M05
+Export, utf�rsel (ton) 2020M06
+Export, utf�rsel (ton) 2020M07
+Export, utf�rsel (ton) 2020M08
+Export, utf�rsel (ton) 2020M09
+Export, utf�rsel (ton) 2020M10
+Export, utf�rsel (ton) 2020M11
+Export, utf�rsel (ton) 2020M12
+Export, utf�rsel (ton) 2021M01
+Export, utf�rsel (ton) 2021M02
+Export, utf�rsel (ton) 2021M03
+Export, utf�rsel (ton) 2021M04
+Export, utf�rsel (ton) 2021M05
+Export, utf�rsel (ton) 2021M06
+Export, utf�rsel (ton) 2021M07
+Export, utf�rsel (ton) 2021M08
+Export, utf�rsel (ton) 2021M09
+Export, utf�rsel (ton) 2021M10
+Export, utf�rsel (ton) 2021M11
+Export, utf�rsel (ton) 2021M12
+Export, utf�rsel (ton) 2022M01
+Export, utf�rsel (ton) 2022M02
+Export, utf�rsel (ton) 2022M03
+Export, utf�rsel (ton) 2022M04
+Export, utf�rsel (ton) 2022M05
+Export, utf�rsel (ton) 2022M06
+Export, utf�rsel (ton) 2022M07
+Export, utf�rsel (ton) 2022M08
+Export, utf�rsel (ton) 2022M09
+Faktisk utleverans (m3) 2018M01
+Faktisk utleverans (m3) 2018M02
+Faktisk utleverans (m3) 2018M03
+Faktisk utleverans (m3) 2018M04
+Faktisk utleverans (m3) 2018M05
+Faktisk utleverans (m3) 2018M06
+Faktisk utleverans (m3) 2018M07
+Faktisk utleverans (m3) 2018M08
+Faktisk utleverans (m3) 2018M09
+Faktisk utleverans (m3) 2018M10
+Faktisk utleverans (m3) 2018M11
+Faktisk utleverans (m3) 2018M12
+Faktisk utleverans (m3) 2019M01
+Faktisk utleverans (m3) 2019M02
+Faktisk utleverans (m3) 2019M03
+Faktisk utleverans (m3) 2019M04
+Faktisk utleverans (m3) 2019M05
+Faktisk utleverans (m3) 2019M06
+Faktisk utleverans (m3) 2019M07
+Faktisk utleverans (m3) 2019M08
+Faktisk utleverans (m3) 2019M09
+Faktisk utleverans (m3) 2019M10
+Faktisk utleverans (m3) 2019M11
+Faktisk utleverans (m3) 2019M12
+Faktisk utleverans (m3) 2020M01
+Faktisk utleverans (m3) 2020M02
+Faktisk utleverans (m3) 2020M03
+Faktisk utleverans (m3) 2020M04
+Faktisk utleverans (m3) 2020M05
+Faktisk utleverans (m3) 2020M06
+Faktisk utleverans (m3) 2020M07
+Faktisk utleverans (m3) 2020M08
+Faktisk utleverans (m3) 2020M09
+Faktisk utleverans (m3) 2020M10
+Faktisk utleverans (m3) 2020M11
+Faktisk utleverans (m3) 2020M12
+Faktisk utleverans (m3) 2021M01
+Faktisk utleverans (m3) 2021M02
+Faktisk utleverans (m3) 2021M03
+Faktisk utleverans (m3) 2021M04
+Faktisk utleverans (m3) 2021M05
+Faktisk utleverans (m3) 2021M06
+Faktisk utleverans (m3) 2021M07
+Faktisk utleverans (m3) 2021M08
+Faktisk utleverans (m3) 2021M09
+Faktisk utleverans (m3) 2021M10
+Faktisk utleverans (m3) 2021M11
+Faktisk utleverans (m3) 2021M12
+Faktisk utleverans (m3) 2022M01
+Faktisk utleverans (m3) 2022M02
+Faktisk utleverans (m3) 2022M03
+Faktisk utleverans (m3) 2022M04
+Faktisk utleverans (m3) 2022M05
+Faktisk utleverans (m3) 2022M06
+Faktisk utleverans (m3) 2022M07
+Faktisk utleverans (m3) 2022M08
+Faktisk utleverans (m3) 2022M09
+Utrikes bunkring (m3) 2018M01
+Utrikes bunkring (m3) 2018M02
+Utrikes bunkring (m3) 2018M03
+Utrikes bunkring (m3) 2018M04
+Utrikes bunkring (m3) 2018M05
+Utrikes bunkring (m3) 2018M06
+Utrikes bunkring (m3) 2018M07
+Utrikes bunkring (m3) 2018M08
+Utrikes bunkring (m3) 2018M09
+Utrikes bunkring (m3) 2018M10
+Utrikes bunkring (m3) 2018M11
+Utrikes bunkring (m3) 2018M12
+Utrikes bunkring (m3) 2019M01
+Utrikes bunkring (m3) 2019M02
+Utrikes bunkring (m3) 2019M03
+Utrikes bunkring (m3) 2019M04
+Utrikes bunkring (m3) 2019M05
+Utrikes bunkring (m3) 2019M06
+Utrikes bunkring (m3) 2019M07
+Utrikes bunkring (m3) 2019M08
+Utrikes bunkring (m3) 2019M09
+Utrikes bunkring (m3) 2019M10
+Utrikes bunkring (m3) 2019M11
+Utrikes bunkring (m3) 2019M12
+Utrikes bunkring (m3) 2020M01
+Utrikes bunkring (m3) 2020M02
+Utrikes bunkring (m3) 2020M03
+Utrikes bunkring (m3) 2020M04
+Utrikes bunkring (m3) 2020M05
+Utrikes bunkring (m3) 2020M06
+Utrikes bunkring (m3) 2020M07
+Utrikes bunkring (m3) 2020M08
+Utrikes bunkring (m3) 2020M09
+Utrikes bunkring (m3) 2020M10
+Utrikes bunkring (m3) 2020M11
+Utrikes bunkring (m3) 2020M12
+Utrikes bunkring (m3) 2021M01
+Utrikes bunkring (m3) 2021M02
+Utrikes bunkring (m3) 2021M03
+Utrikes bunkring (m3) 2021M04
+Utrikes bunkring (m3) 2021M05
+Utrikes bunkring (m3) 2021M06
+Utrikes bunkring (m3) 2021M07
+Utrikes bunkring (m3) 2021M08
+Utrikes bunkring (m3) 2021M09
+Utrikes bunkring (m3) 2021M10
+Utrikes bunkring (m3) 2021M11
+Utrikes bunkring (m3) 2021M12
+Utrikes bunkring (m3) 2022M01
+Utrikes bunkring (m3) 2022M02
+Utrikes bunkring (m3) 2022M03
+Utrikes bunkring (m3) 2022M04
+Utrikes bunkring (m3) 2022M05
+Utrikes bunkring (m3) 2022M06
+Utrikes bunkring (m3) 2022M07
+Utrikes bunkring (m3) 2022M08
+Utrikes bunkring (m3) 2022M09
+
+000001H5_20221201-160349.csv
+varuslag
+2018M01
+2018M02
+2018M03
+2018M04
+2018M05
+2018M06
+2018M07
+2018M08
+2018M09
+2018M10
+2018M11
+2018M12
+2019M01
+2019M02
+2019M03
+2019M04
+2019M05
+2019M06
+2019M07
+2019M08
+2019M09
+2019M10
+2019M11
+2019M12
+2020M01
+2020M02
+2020M03
+2020M04
+2020M05
+2020M06
+2020M07
+2020M08
+2020M09
+2020M10
+2020M11
+2020M12
+2021M01
+2021M02
+2021M03
+2021M04
+2021M05
+2021M06
+2021M07
+2021M08
+2021M09
+2021M10
+2021M11
+2021M12
+2022M01
+2022M02
+2022M03
+2022M04
+2022M05
+2022M06
+2022M07
+2022M08
+2022M09
+
+000001SF_20221201-162027.csv
+region
+br�nsletyp
+f�rbrukarkategori
+2016
+2017
+
+000002UO_20221201-154955.csv
+br�nsletyp
+n�ringsgren SNI 2007
+2022K1
+2022k2
+
+000002UO_20221201-155010.csv
+br�nsletyp
+n�ringsgren SNI 2007
+2022K1
+2022k2
+
+000002UO_20221201-155232.csv
+br�nsletyp
+n�ringsgren SNI 2007
+2022K1
+2022k2
+
+000003TP_20221201-161952.csv
+region
+br�nsletyp
+f�rbrukarkategori
+2018
+2019
+2020
+2021
+
+000004DF_20221201-161918.csv
+produktionsslag
+2017M01
+2017M02
+2017M03
+2017M04
+2017M05
+2017M06
+2017M07
+2017M08
+2017M09
+2017M10
+2017M11
+2017M12
+2018M01
+2018M02
+2018M03
+2018M04
+2018M05
+2018M06
+2018M07
+2018M08
+2018M09
+2018M10
+2018M11
+2018M12
+2019M01
+2019M02
+2019M03
+2019M04
+2019M05
+2019M06
+2019M07
+2019M08
+2019M09
+2019M10
+2019M11
+2019M12
+2020M01
+2020M02
+2020M03
+2020M04
+2020M05
+2020M06
+2020M07
+2020M08
+2020M09
+2020M10
+2020M11
+2020M12
+2021M01
+2021M02
+2021M03
+2021M04
+2021M05
+2021M06
+2021M07
+2021M08
+2021M09
+2021M10
+2021M11
+2021M12
+2022M01
+2022M02
+2022M03
+2022M04
+2022M05
+2022M06
+2022M07
+2022M08
+2022M09
+
+000005GI_20221201-162309.csv
+produktionsslag
+br�nsletyp
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
+000005J8_20221201-161937.csv
+land
+2019M01
+2019M02
+2019M03
+2019M04
+2019M05
+2019M06
+2019M07
+2019M08
+2019M09
+2019M10
+2019M11
+2019M12
+2020M01
+2020M02
+2020M03
+2020M04
+2020M05
+2020M06
+2020M07
+2020M08
+2020M09
+2020M10
+2020M11
+2020M12
+2021M01
+2021M02
+2021M03
+2021M04
+2021M05
+2021M06
+2021M07
+2021M08
+2021M09
+2021M10
+2021M11
+2021M12
+2022M01
+2022M02
+2022M03
+2022M04
+2022M05
+2022M06
+2022M07
+2022M08
+2022M09
+
+000005JP_20221201-155035.csv
+br�nsletyp
+produktion
+anl�ggning
+2022K1
+2022k2
+
+000005JP_20221201-155248.csv
+br�nsletyp
+produktion
+anl�ggning
+2022K1
+2022k2
+
+000005JP_20221201-155335.csv
+br�nsletyp
+produktion
+anl�ggning
+2022K1
+2022k2
+
+000006HL_20221201-162233.csv
+anv�ndningsomr�de
+elomr�de
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
+000006HN_20221201-162532.csv
+Unnamed: 0
+Installerad effekt, MW 2018
+Installerad effekt, MW 2019
+Installerad effekt, MW 2020
+Installerad effekt, MW 2021
+Producerad kyla, GWh 2018
+Producerad kyla, GWh 2019
+Producerad kyla, GWh 2020
+Producerad kyla, GWh 2021
+Levererad kyla, GWh 2018
+Levererad kyla, GWh 2019
+Levererad kyla, GWh 2020
+Levererad kyla, GWh 2021
+
+000006HQ_20221201-162204.csv
+elomr�de
+kraftslag
+Antal anl�ggningar 2015
+Antal anl�ggningar 2016
+Antal anl�ggningar 2017
+Antal anl�ggningar 2018
+Antal anl�ggningar 2019
+Antal anl�ggningar 2020
+Antal anl�ggningar 2021
+Installerad generatoreffekt, MW 2015
+Installerad generatoreffekt, MW 2016
+Installerad generatoreffekt, MW 2017
+Installerad generatoreffekt, MW 2018
+Installerad generatoreffekt, MW 2019
+Installerad generatoreffekt, MW 2020
+Installerad generatoreffekt, MW 2021
+Bruttoproduktion, GWh 2015
+Bruttoproduktion, GWh 2016
+Bruttoproduktion, GWh 2017
+Bruttoproduktion, GWh 2018
+Bruttoproduktion, GWh 2019
+Bruttoproduktion, GWh 2020
+Bruttoproduktion, GWh 2021
+
+000006HU_20221201-162816.csv
+kategori
+Kraftv�rmeproduktion, GWh 2015
+Kraftv�rmeproduktion, GWh 2016
+Kraftv�rmeproduktion, GWh 2017
+Kraftv�rmeproduktion, GWh 2018
+Kraftv�rmeproduktion, GWh 2019
+Kraftv�rmeproduktion, GWh 2020
+Kraftv�rmeproduktion, GWh 2021
+Enbart v�rmeproduktion, GWh 2015
+Enbart v�rmeproduktion, GWh 2016
+Enbart v�rmeproduktion, GWh 2017
+Enbart v�rmeproduktion, GWh 2018
+Enbart v�rmeproduktion, GWh 2019
+Enbart v�rmeproduktion, GWh 2020
+Enbart v�rmeproduktion, GWh 2021
+R�kgaskondensering, GWh 2015
+R�kgaskondensering, GWh 2016
+R�kgaskondensering, GWh 2017
+R�kgaskondensering, GWh 2018
+R�kgaskondensering, GWh 2019
+R�kgaskondensering, GWh 2020
+R�kgaskondensering, GWh 2021
+Med elpanna producerad fj�rrv�rme, GWh 2015
+Med elpanna producerad fj�rrv�rme, GWh 2016
+Med elpanna producerad fj�rrv�rme, GWh 2017
+Med elpanna producerad fj�rrv�rme, GWh 2018
+Med elpanna producerad fj�rrv�rme, GWh 2019
+Med elpanna producerad fj�rrv�rme, GWh 2020
+Med elpanna producerad fj�rrv�rme, GWh 2021
+Med v�rmepump producerad fj�rrv�rme, GWh 2015
+Med v�rmepump producerad fj�rrv�rme, GWh 2016
+Med v�rmepump producerad fj�rrv�rme, GWh 2017
+Med v�rmepump producerad fj�rrv�rme, GWh 2018
+Med v�rmepump producerad fj�rrv�rme, GWh 2019
+Med v�rmepump producerad fj�rrv�rme, GWh 2020
+Med v�rmepump producerad fj�rrv�rme, GWh 2021
+Mottagen v�rme utom branschen, GWh 2015
+Mottagen v�rme utom branschen, GWh 2016
+Mottagen v�rme utom branschen, GWh 2017
+Mottagen v�rme utom branschen, GWh 2018
+Mottagen v�rme utom branschen, GWh 2019
+Mottagen v�rme utom branschen, GWh 2020
+Mottagen v�rme utom branschen, GWh 2021
+Mottagen v�rme inom branschen, GWh 2015
+Mottagen v�rme inom branschen, GWh 2016
+Mottagen v�rme inom branschen, GWh 2017
+Mottagen v�rme inom branschen, GWh 2018
+Mottagen v�rme inom branschen, GWh 2019
+Mottagen v�rme inom branschen, GWh 2020
+Mottagen v�rme inom branschen, GWh 2021
+F�rluster fram till leveranspunkt, GWh 2015
+F�rluster fram till leveranspunkt, GWh 2016
+F�rluster fram till leveranspunkt, GWh 2017
+F�rluster fram till leveranspunkt, GWh 2018
+F�rluster fram till leveranspunkt, GWh 2019
+F�rluster fram till leveranspunkt, GWh 2020
+F�rluster fram till leveranspunkt, GWh 2021
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2015
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2016
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2017
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2018
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2019
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2020
+F�rbrukning av el vid v�rmeverksdrift exkl elpannor och v�rmepumpar, GWh 2021
+F�rbrukning av el f�r elpannedrift, GWh 2015
+F�rbrukning av el f�r elpannedrift, GWh 2016
+F�rbrukning av el f�r elpannedrift, GWh 2017
+F�rbrukning av el f�r elpannedrift, GWh 2018
+F�rbrukning av el f�r elpannedrift, GWh 2019
+F�rbrukning av el f�r elpannedrift, GWh 2020
+F�rbrukning av el f�r elpannedrift, GWh 2021
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2015
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2016
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2017
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2018
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2019
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2020
+F�rbrukning av el f�r v�rmepumpsdrift, GWh 2021
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2015
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2016
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2017
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2018
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2019
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2020
+Br�nslef�rbrukning f�r kraftv�rmeproduktion, GWh 2021
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2015
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2016
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2017
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2018
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2019
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2020
+Br�nslef�rbrukning f�r enbart v�rmeproduktion, GWh 2021
+Verkningsgrad netto, procent 2015
+Verkningsgrad netto, procent 2016
+Verkningsgrad netto, procent 2017
+Verkningsgrad netto, procent 2018
+Verkningsgrad netto, procent 2019
+Verkningsgrad netto, procent 2020
+Verkningsgrad netto, procent 2021
+
+000006I6_20221201-162555.csv
+kraftslag
+Nettoproduktion, GWh 2015
+Nettoproduktion, GWh 2016
+Nettoproduktion, GWh 2017
+Nettoproduktion, GWh 2018
+Nettoproduktion, GWh 2019
+Nettoproduktion, GWh 2020
+Nettoproduktion, GWh 2021
+Br�nsleinsats, GWh 2015
+Br�nsleinsats, GWh 2016
+Br�nsleinsats, GWh 2017
+Br�nsleinsats, GWh 2018
+Br�nsleinsats, GWh 2019
+Br�nsleinsats, GWh 2020
+Br�nsleinsats, GWh 2021
+Verkningsgrad netto, procent 2015
+Verkningsgrad netto, procent 2016
+Verkningsgrad netto, procent 2017
+Verkningsgrad netto, procent 2018
+Verkningsgrad netto, procent 2019
+Verkningsgrad netto, procent 2020
+Verkningsgrad netto, procent 2021
+
+000006I7_20221201-162846.csv
+f�rbrukarkategori
+Antal abonnemang 2015
+Antal abonnemang 2016
+Antal abonnemang 2017
+Antal abonnemang 2018
+Antal abonnemang 2019
+Antal abonnemang 2020
+Antal abonnemang 2021
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2015
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2016
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2017
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2018
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2019
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2020
+Leverans av fj�rrv�rme (�nga och hetvatten), GWh 2021
+
+data-def.txt
+000000B6_20221201-162102.csv
+
+data-explanaitons.md
+## ../data/original/000000B6_20221201-162102.csv:
+
+EN0105A1_20221201-162428.csv
+produktionsslag
+Brutto 1986
+Brutto 1987
+Brutto 1988
+Brutto 1989
+Brutto 1990
+Brutto 1991
+Brutto 1992
+Brutto 1993
+Brutto 1994
+Brutto 1995
+Brutto 1996
+Brutto 1997
+Brutto 1998
+Brutto 1999
+Brutto 2000
+Brutto 2001
+Brutto 2002
+Brutto 2003
+Brutto 2004
+Brutto 2005
+Brutto 2006
+Brutto 2007
+Brutto 2008
+Brutto 2009
+Brutto 2010
+Brutto 2011
+Brutto 2012
+Brutto 2013
+Brutto 2014
+Brutto 2015
+Brutto 2016
+Brutto 2017
+Brutto 2018
+Brutto 2019
+Brutto 2020
+Brutto 2021
+Netto 1986
+Netto 1987
+Netto 1988
+Netto 1989
+Netto 1990
+Netto 1991
+Netto 1992
+Netto 1993
+Netto 1994
+Netto 1995
+Netto 1996
+Netto 1997
+Netto 1998
+Netto 1999
+Netto 2000
+Netto 2001
+Netto 2002
+Netto 2003
+Netto 2004
+Netto 2005
+Netto 2006
+Netto 2007
+Netto 2008
+Netto 2009
+Netto 2010
+Netto 2011
+Netto 2012
+Netto 2013
+Netto 2014
+Netto 2015
+Netto 2016
+Netto 2017
+Netto 2018
+Netto 2019
+Netto 2020
+Netto 2021
+Egenanv�ndning 1986
+Egenanv�ndning 1987
+Egenanv�ndning 1988
+Egenanv�ndning 1989
+Egenanv�ndning 1990
+Egenanv�ndning 1991
+Egenanv�ndning 1992
+Egenanv�ndning 1993
+Egenanv�ndning 1994
+Egenanv�ndning 1995
+Egenanv�ndning 1996
+Egenanv�ndning 1997
+Egenanv�ndning 1998
+Egenanv�ndning 1999
+Egenanv�ndning 2000
+Egenanv�ndning 2001
+Egenanv�ndning 2002
+Egenanv�ndning 2003
+Egenanv�ndning 2004
+Egenanv�ndning 2005
+Egenanv�ndning 2006
+Egenanv�ndning 2007
+Egenanv�ndning 2008
+Egenanv�ndning 2009
+Egenanv�ndning 2010
+Egenanv�ndning 2011
+Egenanv�ndning 2012
+Egenanv�ndning 2013
+Egenanv�ndning 2014
+Egenanv�ndning 2015
+Egenanv�ndning 2016
+Egenanv�ndning 2017
+Egenanv�ndning 2018
+Egenanv�ndning 2019
+Egenanv�ndning 2020
+Egenanv�ndning 2021
+
+EN0105A2_20221201-162902.csv
+anv�ndningsomr�de
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+
+EN0105A3_20221201-162915.csv
+anv�ndningsomr�de
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0105A7_20221201-162251.csv
+produktionsslag
+br�nsletyp
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
+EN0105B0_20221201-162929.csv
+anv�ndningsomr�de
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+
+EN0105B1_20221201-163134.csv
+anv�ndningsomr�de
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+EN0106A1_20221201-155056.csv
+n�ringsgren SNI92
+br�nsletyp
+1992K1
+1992K2
+1992K3
+1992K4
+1993K1
+1993K2
+1993K3
+1993K4
+1994K1
+1994K2
+1994K3
+1994K4
+1995K1
+1995K2
+1995K3
+1995K4
+1996K1
+1996K2
+1996K3
+1996K4
+1997K1
+1997K2
+1997K3
+1997K4
+1998K1
+1998K2
+1998K3
+1998K4
+1999K1
+1999K2
+1999K3
+1999K4
+2000K1
+2000K2
+2000K3
+2000K4
+2001K1
+2001K2
+2001K3
+2001K4
+
+EN0106A1_20221201-155355.csv
+n�ringsgren SNI92
+br�nsletyp
+1992K1
+1992K2
+1992K3
+1992K4
+1993K1
+1993K2
+1993K3
+1993K4
+1994K1
+1994K2
+1994K3
+1994K4
+1995K1
+1995K2
+1995K3
+1995K4
+1996K1
+1996K2
+1996K3
+1996K4
+1997K1
+1997K2
+1997K3
+1997K4
+1998K1
+1998K2
+1998K3
+1998K4
+1999K1
+1999K2
+1999K3
+1999K4
+2000K1
+2000K2
+2000K3
+2000K4
+2001K1
+2001K2
+2001K3
+2001K4
+
+EN0106B3_20221201-154909.csv
+n�ringsgren SNI 2007
+br�nsletyp
+2009K1
+2009K2
+2009K3
+2009K4
+2010K1
+2010K2
+2010K3
+2010K4
+2011K1
+2011K2
+2011K3
+2011K4
+2012K1
+2012K2
+2012K3
+2012K4
+2013K1
+2013K2
+2013K3
+2013K4
+2014K1
+2014K2
+2014K3
+2014K4
+2015K1
+2015K2
+2015K3
+2015K4
+2016K1
+2016K2
+2016K3
+2016K4
+2017K1
+2017K2
+2017K3
+2017K4
+2018K1
+2018K2
+2018K3
+2018K4
+2019K1
+2019K2
+2019K3
+2019K4
+2020K1
+2020K2
+2020K3
+2020K4
+2021K1
+2021K2
+2021K3
+2021K4
+2022K1
+2022k2
+
+EN0106B3_20221201-155116.csv
+n�ringsgren SNI 2007
+br�nsletyp
+2009K1
+2009K2
+2009K3
+2009K4
+2010K1
+2010K2
+2010K3
+2010K4
+2011K1
+2011K2
+2011K3
+2011K4
+2012K1
+2012K2
+2012K3
+2012K4
+2013K1
+2013K2
+2013K3
+2013K4
+2014K1
+2014K2
+2014K3
+2014K4
+2015K1
+2015K2
+2015K3
+2015K4
+2016K1
+2016K2
+2016K3
+2016K4
+2017K1
+2017K2
+2017K3
+2017K4
+2018K1
+2018K2
+2018K3
+2018K4
+2019K1
+2019K2
+2019K3
+2019K4
+2020K1
+2020K2
+2020K3
+2020K4
+2021K1
+2021K2
+2021K3
+2021K4
+2022K1
+2022k2
+
+EN0106B3_20221201-155145.csv
+n�ringsgren SNI 2007
+br�nsletyp
+2009K1
+2009K2
+2009K3
+2009K4
+2010K1
+2010K2
+2010K3
+2010K4
+2011K1
+2011K2
+2011K3
+2011K4
+2012K1
+2012K2
+2012K3
+2012K4
+2013K1
+2013K2
+2013K3
+2013K4
+2014K1
+2014K2
+2014K3
+2014K4
+2015K1
+2015K2
+2015K3
+2015K4
+2016K1
+2016K2
+2016K3
+2016K4
+2017K1
+2017K2
+2017K3
+2017K4
+2018K1
+2018K2
+2018K3
+2018K4
+2019K1
+2019K2
+2019K3
+2019K4
+2020K1
+2020K2
+2020K3
+2020K4
+2021K1
+2021K2
+2021K3
+2021K4
+2022K1
+2022k2
+
+EN0106C0_20221201-154936.csv
+n�ringsgren SNI92
+br�nsletyp
+2002K1
+2002K2
+2002K3
+2002K4
+2003K1
+2003K2
+2003K3
+2003K4
+2004K1
+2004K2
+2004K3
+2004K4
+2005K1
+2005K2
+2005K3
+2005K4
+2006K1
+2006K2
+2006K3
+2006K4
+2007K1
+2007K2
+2007K3
+2007K4
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+
+EN0106C0_20221201-155202.csv
+n�ringsgren SNI92
+br�nsletyp
+2002K1
+2002K2
+2002K3
+2002K4
+2003K1
+2003K2
+2003K3
+2003K4
+2004K1
+2004K2
+2004K3
+2004K4
+2005K1
+2005K2
+2005K3
+2005K4
+2006K1
+2006K2
+2006K3
+2006K4
+2007K1
+2007K2
+2007K3
+2007K4
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+
+EN0106C0_20221201-155216.csv
+n�ringsgren SNI92
+br�nsletyp
+2002K1
+2002K2
+2002K3
+2002K4
+2003K1
+2003K2
+2003K3
+2003K4
+2004K1
+2004K2
+2004K3
+2004K4
+2005K1
+2005K2
+2005K3
+2005K4
+2006K1
+2006K2
+2006K3
+2006K4
+2007K1
+2007K2
+2007K3
+2007K4
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+
+EN0107A2_20221201-160423.csv
+varuslag
+f�rbrukarkategori
+1997M01
+1997M02
+1997M03
+1997M04
+1997M05
+1997M06
+1997M07
+1997M08
+1997M09
+1997M10
+1997M11
+1997M12
+1998M01
+1998M02
+1998M03
+1998M04
+1998M05
+1998M06
+1998M07
+1998M08
+1998M09
+1998M10
+1998M11
+1998M12
+1999M01
+1999M02
+1999M03
+1999M04
+1999M05
+1999M06
+1999M07
+1999M08
+1999M09
+1999M10
+1999M11
+1999M12
+2000M01
+2000M02
+2000M03
+2000M04
+2000M05
+2000M06
+2000M07
+2000M08
+2000M09
+2000M10
+2000M11
+2000M12
+2001M01
+2001M02
+2001M03
+2001M04
+2001M05
+2001M06
+2001M07
+2001M08
+2001M09
+2001M10
+2001M11
+2001M12
+2002M01
+2002M02
+2002M03
+2002M04
+2002M05
+2002M06
+2002M07
+2002M08
+2002M09
+2002M10
+2002M11
+2002M12
+2003M01
+2003M02
+2003M03
+2003M04
+2003M05
+2003M06
+2003M07
+2003M08
+2003M09
+2003M10
+2003M11
+2003M12
+2004M01
+2004M02
+2004M03
+2004M04
+2004M05
+2004M06
+2004M07
+2004M08
+2004M09
+2004M10
+2004M11
+2004M12
+2005M01
+2005M02
+2005M03
+2005M04
+2005M05
+2005M06
+2005M07
+2005M08
+2005M09
+2005M10
+2005M11
+2005M12
+2006M01
+2006M02
+2006M03
+2006M04
+2006M05
+2006M06
+2006M07
+2006M08
+2006M09
+2006M10
+2006M11
+2006M12
+2007M01
+2007M02
+2007M03
+2007M04
+2007M05
+2007M06
+2007M07
+2007M08
+2007M09
+2007M10
+2007M11
+2007M12
+2008M01
+2008M02
+2008M03
+2008M04
+2008M05
+2008M06
+2008M07
+2008M08
+2008M09
+2008M10
+2008M11
+2008M12
+2009M01
+2009M02
+2009M03
+2009M04
+2009M05
+2009M06
+2009M07
+2009M08
+2009M09
+2009M10
+2009M11
+2009M12
+2010M01
+2010M02
+2010M03
+2010M04
+2010M05
+2010M06
+2010M07
+2010M08
+2010M09
+2010M10
+2010M11
+2010M12
+2011M01
+2011M02
+2011M03
+2011M04
+2011M05
+2011M06
+2011M07
+2011M08
+2011M09
+2011M10
+2011M11
+2011M12
+2012M01
+2012M02
+2012M03
+2012M04
+2012M05
+2012M06
+2012M07
+2012M08
+2012M09
+2012M10
+2012M11
+2012M12
+2013M01
+2013M02
+2013M03
+2013M04
+2013M05
+2013M06
+2013M07
+2013M08
+2013M09
+2013M10
+2013M11
+2013M12
+2014M01
+2014M02
+2014M03
+2014M04
+2014M05
+2014M06
+2014M07
+2014M08
+2014M09
+2014M10
+2014M11
+2014M12
+2015M01
+2015M02
+2015M03
+2015M04
+2015M05
+2015M06
+2015M07
+2015M08
+2015M09
+2015M10
+2015M11
+2015M12
+2016M01
+2016M02
+2016M03
+2016M04
+2016M05
+2016M06
+2016M07
+2016M08
+2016M09
+2016M10
+2016M11
+2016M12
+2017M01
+2017M02
+2017M03
+2017M04
+2017M05
+2017M06
+2017M07
+2017M08
+2017M09
+2017M10
+2017M11
+2017M12
+
+EN0107A3_20221201-160406.csv
+varuslag
+f�rbrukarkategori
+1997M01
+1997M02
+1997M03
+1997M04
+1997M05
+1997M06
+1997M07
+1997M08
+1997M09
+1997M10
+1997M11
+1997M12
+1998M01
+1998M02
+1998M03
+1998M04
+1998M05
+1998M06
+1998M07
+1998M08
+1998M09
+1998M10
+1998M11
+1998M12
+1999M01
+1999M02
+1999M03
+1999M04
+1999M05
+1999M06
+1999M07
+1999M08
+1999M09
+1999M10
+1999M11
+1999M12
+2000M01
+2000M02
+2000M03
+2000M04
+2000M05
+2000M06
+2000M07
+2000M08
+2000M09
+2000M10
+2000M11
+2000M12
+2001M01
+2001M02
+2001M03
+2001M04
+2001M05
+2001M06
+2001M07
+2001M08
+2001M09
+2001M10
+2001M11
+2001M12
+2002M01
+2002M02
+2002M03
+2002M04
+2002M05
+2002M06
+2002M07
+2002M08
+2002M09
+2002M10
+2002M11
+2002M12
+2003M01
+2003M02
+2003M03
+2003M04
+2003M05
+2003M06
+2003M07
+2003M08
+2003M09
+2003M10
+2003M11
+2003M12
+2004M01
+2004M02
+2004M03
+2004M04
+2004M05
+2004M06
+2004M07
+2004M08
+2004M09
+2004M10
+2004M11
+2004M12
+2005M01
+2005M02
+2005M03
+2005M04
+2005M05
+2005M06
+2005M07
+2005M08
+2005M09
+2005M10
+2005M11
+2005M12
+2006M01
+2006M02
+2006M03
+2006M04
+2006M05
+2006M06
+2006M07
+2006M08
+2006M09
+2006M10
+2006M11
+2006M12
+2007M01
+2007M02
+2007M03
+2007M04
+2007M05
+2007M06
+2007M07
+2007M08
+2007M09
+2007M10
+2007M11
+2007M12
+2008M01
+2008M02
+2008M03
+2008M04
+2008M05
+2008M06
+2008M07
+2008M08
+2008M09
+2008M10
+2008M11
+2008M12
+2009M01
+2009M02
+2009M03
+2009M04
+2009M05
+2009M06
+2009M07
+2009M08
+2009M09
+2009M10
+2009M11
+2009M12
+2010M01
+2010M02
+2010M03
+2010M04
+2010M05
+2010M06
+2010M07
+2010M08
+2010M09
+2010M10
+2010M11
+2010M12
+2011M01
+2011M02
+2011M03
+2011M04
+2011M05
+2011M06
+2011M07
+2011M08
+2011M09
+2011M10
+2011M11
+2011M12
+2012M01
+2012M02
+2012M03
+2012M04
+2012M05
+2012M06
+2012M07
+2012M08
+2012M09
+2012M10
+2012M11
+2012M12
+2013M01
+2013M02
+2013M03
+2013M04
+2013M05
+2013M06
+2013M07
+2013M08
+2013M09
+2013M10
+2013M11
+2013M12
+2014M01
+2014M02
+2014M03
+2014M04
+2014M05
+2014M06
+2014M07
+2014M08
+2014M09
+2014M10
+2014M11
+2014M12
+2015M01
+2015M02
+2015M03
+2015M04
+2015M05
+2015M06
+2015M07
+2015M08
+2015M09
+2015M10
+2015M11
+2015M12
+2016M01
+2016M02
+2016M03
+2016M04
+2016M05
+2016M06
+2016M07
+2016M08
+2016M09
+2016M10
+2016M11
+2016M12
+2017M01
+2017M02
+2017M03
+2017M04
+2017M05
+2017M06
+2017M07
+2017M08
+2017M09
+2017M10
+2017M11
+2017M12
+
+EN0108A2_20221201-160711.csv
+n�ringsgren SNI92
+1990M01
+1990M02
+1990M03
+1990M04
+1990M05
+1990M06
+1990M07
+1990M08
+1990M09
+1990M10
+1990M11
+1990M12
+1991M01
+1991M02
+1991M03
+1991M04
+1991M05
+1991M06
+1991M07
+1991M08
+1991M09
+1991M10
+1991M11
+1991M12
+1992M01
+1992M02
+1992M03
+1992M04
+1992M05
+1992M06
+1992M07
+1992M08
+1992M09
+1992M10
+1992M11
+1992M12
+1993M01
+1993M02
+1993M03
+1993M04
+1993M05
+1993M06
+1993M07
+1993M08
+1993M09
+1993M10
+1993M11
+1993M12
+1994M01
+1994M02
+1994M03
+1994M04
+1994M05
+1994M06
+1994M07
+1994M08
+1994M09
+1994M10
+1994M11
+1994M12
+1995M01
+1995M02
+1995M03
+1995M04
+1995M05
+1995M06
+1995M07
+1995M08
+1995M09
+1995M10
+1995M11
+1995M12
+1996M01
+1996M02
+1996M03
+1996M04
+1996M05
+1996M06
+1996M07
+1996M08
+1996M09
+1996M10
+1996M11
+1996M12
+1997M01
+1997M02
+1997M03
+1997M04
+1997M05
+1997M06
+1997M07
+1997M08
+1997M09
+1997M10
+1997M11
+1997M12
+1998M01
+1998M02
+1998M03
+1998M04
+1998M05
+1998M06
+1998M07
+1998M08
+1998M09
+1998M10
+1998M11
+1998M12
+1999M01
+1999M02
+1999M03
+1999M04
+1999M05
+1999M06
+1999M07
+1999M08
+1999M09
+1999M10
+1999M11
+1999M12
+2000M01
+2000M02
+2000M03
+2000M04
+2000M05
+2000M06
+2000M07
+2000M08
+2000M09
+2000M10
+2000M11
+2000M12
+2001M01
+2001M02
+2001M03
+2001M04
+2001M05
+2001M06
+2001M07
+2001M08
+2001M09
+2001M10
+2001M11
+2001M12
+2002M01
+2002M02
+2002M03
+2002M04
+2002M05
+2002M06
+2002M07
+2002M08
+2002M09
+2002M10
+2002M11
+2002M12
+2003M01
+2003M02
+2003M03
+2003M04
+2003M05
+2003M06
+2003M07
+2003M08
+2003M09
+2003M10
+2003M11
+2003M12
+2004M01
+2004M02
+2004M03
+2004M04
+2004M05
+2004M06
+2004M07
+2004M08
+2004M09
+2004M10
+2004M11
+2004M12
+2005M01
+2005M02
+2005M03
+2005M04
+2005M05
+2005M06
+2005M07
+2005M08
+2005M09
+2005M10
+2005M11
+2005M12
+2006M01
+2006M02
+2006M03
+2006M04
+2006M05
+2006M06
+2006M07
+2006M08
+2006M09
+2006M10
+2006M11
+2006M12
+2007M01
+2007M02
+2007M03
+2007M04
+2007M05
+2007M06
+2007M07
+2007M08
+2007M09
+2007M10
+2007M11
+2007M12
+2008M01
+2008M02
+2008M03
+2008M04
+2008M05
+2008M06
+2008M07
+2008M08
+2008M09
+2008M10
+2008M11
+2008M12
+2009M01
+2009M02
+2009M03
+2009M04
+2009M05
+2009M06
+2009M07
+2009M08
+2009M09
+2009M10
+2009M11
+2009M12
+
+EN0108A3_20221201-160443.csv
+produktionsslag
+1974M01
+1974M02
+1974M03
+1974M04
+1974M05
+1974M06
+1974M07
+1974M08
+1974M09
+1974M10
+1974M11
+1974M12
+1975M01
+1975M02
+1975M03
+1975M04
+1975M05
+1975M06
+1975M07
+1975M08
+1975M09
+1975M10
+1975M11
+1975M12
+1976M01
+1976M02
+1976M03
+1976M04
+1976M05
+1976M06
+1976M07
+1976M08
+1976M09
+1976M10
+1976M11
+1976M12
+1977M01
+1977M02
+1977M03
+1977M04
+1977M05
+1977M06
+1977M07
+1977M08
+1977M09
+1977M10
+1977M11
+1977M12
+1978M01
+1978M02
+1978M03
+1978M04
+1978M05
+1978M06
+1978M07
+1978M08
+1978M09
+1978M10
+1978M11
+1978M12
+1979M01
+1979M02
+1979M03
+1979M04
+1979M05
+1979M06
+1979M07
+1979M08
+1979M09
+1979M10
+1979M11
+1979M12
+1980M01
+1980M02
+1980M03
+1980M04
+1980M05
+1980M06
+1980M07
+1980M08
+1980M09
+1980M10
+1980M11
+1980M12
+1981M01
+1981M02
+1981M03
+1981M04
+1981M05
+1981M06
+1981M07
+1981M08
+1981M09
+1981M10
+1981M11
+1981M12
+1982M01
+1982M02
+1982M03
+1982M04
+1982M05
+1982M06
+1982M07
+1982M08
+1982M09
+1982M10
+1982M11
+1982M12
+1983M01
+1983M02
+1983M03
+1983M04
+1983M05
+1983M06
+1983M07
+1983M08
+1983M09
+1983M10
+1983M11
+1983M12
+1984M01
+1984M02
+1984M03
+1984M04
+1984M05
+1984M06
+1984M07
+1984M08
+1984M09
+1984M10
+1984M11
+1984M12
+1985M01
+1985M02
+1985M03
+1985M04
+1985M05
+1985M06
+1985M07
+1985M08
+1985M09
+1985M10
+1985M11
+1985M12
+1986M01
+1986M02
+1986M03
+1986M04
+1986M05
+1986M06
+1986M07
+1986M08
+1986M09
+1986M10
+1986M11
+1986M12
+1987M01
+1987M02
+1987M03
+1987M04
+1987M05
+1987M06
+1987M07
+1987M08
+1987M09
+1987M10
+1987M11
+1987M12
+1988M01
+1988M02
+1988M03
+1988M04
+1988M05
+1988M06
+1988M07
+1988M08
+1988M09
+1988M10
+1988M11
+1988M12
+1989M01
+1989M02
+1989M03
+1989M04
+1989M05
+1989M06
+1989M07
+1989M08
+1989M09
+1989M10
+1989M11
+1989M12
+1990M01
+1990M02
+1990M03
+1990M04
+1990M05
+1990M06
+1990M07
+1990M08
+1990M09
+1990M10
+1990M11
+1990M12
+1991M01
+1991M02
+1991M03
+1991M04
+1991M05
+1991M06
+1991M07
+1991M08
+1991M09
+1991M10
+1991M11
+1991M12
+1992M01
+1992M02
+1992M03
+1992M04
+1992M05
+1992M06
+1992M07
+1992M08
+1992M09
+1992M10
+1992M11
+1992M12
+1993M01
+1993M02
+1993M03
+1993M04
+1993M05
+1993M06
+1993M07
+1993M08
+1993M09
+1993M10
+1993M11
+1993M12
+1994M01
+1994M02
+1994M03
+1994M04
+1994M05
+1994M06
+1994M07
+1994M08
+1994M09
+1994M10
+1994M11
+1994M12
+1995M01
+1995M02
+1995M03
+1995M04
+1995M05
+1995M06
+1995M07
+1995M08
+1995M09
+1995M10
+1995M11
+1995M12
+1996M01
+1996M02
+1996M03
+1996M04
+1996M05
+1996M06
+1996M07
+1996M08
+1996M09
+1996M10
+1996M11
+1996M12
+1997M01
+1997M02
+1997M03
+1997M04
+1997M05
+1997M06
+1997M07
+1997M08
+1997M09
+1997M10
+1997M11
+1997M12
+1998M01
+1998M02
+1998M03
+1998M04
+1998M05
+1998M06
+1998M07
+1998M08
+1998M09
+1998M10
+1998M11
+1998M12
+1999M01
+1999M02
+1999M03
+1999M04
+1999M05
+1999M06
+1999M07
+1999M08
+1999M09
+1999M10
+1999M11
+1999M12
+2000M01
+2000M02
+2000M03
+2000M04
+2000M05
+2000M06
+2000M07
+2000M08
+2000M09
+2000M10
+2000M11
+2000M12
+2001M01
+2001M02
+2001M03
+2001M04
+2001M05
+2001M06
+2001M07
+2001M08
+2001M09
+2001M10
+2001M11
+2001M12
+2002M01
+2002M02
+2002M03
+2002M04
+2002M05
+2002M06
+2002M07
+2002M08
+2002M09
+2002M10
+2002M11
+2002M12
+2003M01
+2003M02
+2003M03
+2003M04
+2003M05
+2003M06
+2003M07
+2003M08
+2003M09
+2003M10
+2003M11
+2003M12
+2004M01
+2004M02
+2004M03
+2004M04
+2004M05
+2004M06
+2004M07
+2004M08
+2004M09
+2004M10
+2004M11
+2004M12
+2005M01
+2005M02
+2005M03
+2005M04
+2005M05
+2005M06
+2005M07
+2005M08
+2005M09
+2005M10
+2005M11
+2005M12
+2006M01
+2006M02
+2006M03
+2006M04
+2006M05
+2006M06
+2006M07
+2006M08
+2006M09
+2006M10
+2006M11
+2006M12
+2007M01
+2007M02
+2007M03
+2007M04
+2007M05
+2007M06
+2007M07
+2007M08
+2007M09
+2007M10
+2007M11
+2007M12
+2008M01
+2008M02
+2008M03
+2008M04
+2008M05
+2008M06
+2008M07
+2008M08
+2008M09
+2008M10
+2008M11
+2008M12
+2009M01
+2009M02
+2009M03
+2009M04
+2009M05
+2009M06
+2009M07
+2009M08
+2009M09
+2009M10
+2009M11
+2009M12
+2010M01
+2010M02
+2010M03
+2010M04
+2010M05
+2010M06
+2010M07
+2010M08
+2010M09
+2010M10
+2010M11
+2010M12
+2011M01
+2011M02
+2011M03
+2011M04
+2011M05
+2011M06
+2011M07
+2011M08
+2011M09
+2011M10
+2011M11
+2011M12
+2012M01
+2012M02
+2012M03
+2012M04
+2012M05
+2012M06
+2012M07
+2012M08
+2012M09
+2012M10
+2012M11
+2012M12
+2013M01
+2013M02
+2013M03
+2013M04
+2013M05
+2013M06
+2013M07
+2013M08
+2013M09
+2013M10
+2013M11
+2013M12
+2014M01
+2014M02
+2014M03
+2014M04
+2014M05
+2014M06
+2014M07
+2014M08
+2014M09
+2014M10
+2014M11
+2014M12
+2015M01
+2015M02
+2015M03
+2015M04
+2015M05
+2015M06
+2015M07
+2015M08
+2015M09
+2015M10
+2015M11
+2015M12
+2016M01
+2016M02
+2016M03
+2016M04
+2016M05
+2016M06
+2016M07
+2016M08
+2016M09
+2016M10
+2016M11
+2016M12
+2017M01
+2017M02
+2017M03
+2017M04
+2017M05
+2017M06
+2017M07
+2017M08
+2017M09
+2017M10
+2017M11
+2017M12
+2018M01
+2018M02
+2018M03
+2018M04
+2018M05
+2018M06
+2018M07
+2018M08
+2018M09
+2018M10
+2018M11
+2018M12
+2019M01
+2019M02
+2019M03
+2019M04
+2019M05
+2019M06
+2019M07
+2019M08
+2019M09
+2019M10
+2019M11
+2019M12
+2020M01
+2020M02
+2020M03
+2020M04
+2020M05
+2020M06
+2020M07
+2020M08
+2020M09
+2020M10
+2020M11
+2020M12
+2021M01
+2021M02
+2021M03
+2021M04
+2021M05
+2021M06
+2021M07
+2021M08
+2021M09
+2021M10
+2021M11
+2021M12
+2022M01
+2022M02
+2022M03
+2022M04
+2022M05
+2022M06
+2022M07
+2022M08
+2022M09
+
+EN0108A4_20221201-160536.csv
+anv�ndningsomr�de
+1990M01
+1990M02
+1990M03
+1990M04
+1990M05
+1990M06
+1990M07
+1990M08
+1990M09
+1990M10
+1990M11
+1990M12
+1991M01
+1991M02
+1991M03
+1991M04
+1991M05
+1991M06
+1991M07
+1991M08
+1991M09
+1991M10
+1991M11
+1991M12
+1992M01
+1992M02
+1992M03
+1992M04
+1992M05
+1992M06
+1992M07
+1992M08
+1992M09
+1992M10
+1992M11
+1992M12
+1993M01
+1993M02
+1993M03
+1993M04
+1993M05
+1993M06
+1993M07
+1993M08
+1993M09
+1993M10
+1993M11
+1993M12
+1994M01
+1994M02
+1994M03
+1994M04
+1994M05
+1994M06
+1994M07
+1994M08
+1994M09
+1994M10
+1994M11
+1994M12
+1995M01
+1995M02
+1995M03
+1995M04
+1995M05
+1995M06
+1995M07
+1995M08
+1995M09
+1995M10
+1995M11
+1995M12
+1996M01
+1996M02
+1996M03
+1996M04
+1996M05
+1996M06
+1996M07
+1996M08
+1996M09
+1996M10
+1996M11
+1996M12
+1997M01
+1997M02
+1997M03
+1997M04
+1997M05
+1997M06
+1997M07
+1997M08
+1997M09
+1997M10
+1997M11
+1997M12
+1998M01
+1998M02
+1998M03
+1998M04
+1998M05
+1998M06
+1998M07
+1998M08
+1998M09
+1998M10
+1998M11
+1998M12
+1999M01
+1999M02
+1999M03
+1999M04
+1999M05
+1999M06
+1999M07
+1999M08
+1999M09
+1999M10
+1999M11
+1999M12
+2000M01
+2000M02
+2000M03
+2000M04
+2000M05
+2000M06
+2000M07
+2000M08
+2000M09
+2000M10
+2000M11
+2000M12
+2001M01
+2001M02
+2001M03
+2001M04
+2001M05
+2001M06
+2001M07
+2001M08
+2001M09
+2001M10
+2001M11
+2001M12
+2002M01
+2002M02
+2002M03
+2002M04
+2002M05
+2002M06
+2002M07
+2002M08
+2002M09
+2002M10
+2002M11
+2002M12
+2003M01
+2003M02
+2003M03
+2003M04
+2003M05
+2003M06
+2003M07
+2003M08
+2003M09
+2003M10
+2003M11
+2003M12
+2004M01
+2004M02
+2004M03
+2004M04
+2004M05
+2004M06
+2004M07
+2004M08
+2004M09
+2004M10
+2004M11
+2004M12
+2005M01
+2005M02
+2005M03
+2005M04
+2005M05
+2005M06
+2005M07
+2005M08
+2005M09
+2005M10
+2005M11
+2005M12
+2006M01
+2006M02
+2006M03
+2006M04
+2006M05
+2006M06
+2006M07
+2006M08
+2006M09
+2006M10
+2006M11
+2006M12
+2007M01
+2007M02
+2007M03
+2007M04
+2007M05
+2007M06
+2007M07
+2007M08
+2007M09
+2007M10
+2007M11
+2007M12
+2008M01
+2008M02
+2008M03
+2008M04
+2008M05
+2008M06
+2008M07
+2008M08
+2008M09
+2008M10
+2008M11
+2008M12
+2009M01
+2009M02
+2009M03
+2009M04
+2009M05
+2009M06
+2009M07
+2009M08
+2009M09
+2009M10
+2009M11
+2009M12
+2010M01
+2010M02
+2010M03
+2010M04
+2010M05
+2010M06
+2010M07
+2010M08
+2010M09
+2010M10
+2010M11
+2010M12
+2011M01
+2011M02
+2011M03
+2011M04
+2011M05
+2011M06
+2011M07
+2011M08
+2011M09
+2011M10
+2011M11
+2011M12
+2012M01
+2012M02
+2012M03
+2012M04
+2012M05
+2012M06
+2012M07
+2012M08
+2012M09
+2012M10
+2012M11
+2012M12
+2013M01
+2013M02
+2013M03
+2013M04
+2013M05
+2013M06
+2013M07
+2013M08
+2013M09
+2013M10
+2013M11
+2013M12
+2014M01
+2014M02
+2014M03
+2014M04
+2014M05
+2014M06
+2014M07
+2014M08
+2014M09
+2014M10
+2014M11
+2014M12
+2015M01
+2015M02
+2015M03
+2015M04
+2015M05
+2015M06
+2015M07
+2015M08
+2015M09
+2015M10
+2015M11
+2015M12
+2016M01
+2016M02
+2016M03
+2016M04
+2016M05
+2016M06
+2016M07
+2016M08
+2016M09
+2016M10
+2016M11
+2016M12
+2017M01
+2017M02
+2017M03
+2017M04
+2017M05
+2017M06
+2017M07
+2017M08
+2017M09
+2017M10
+2017M11
+2017M12
+2018M01
+2018M02
+2018M03
+2018M04
+2018M05
+2018M06
+2018M07
+2018M08
+2018M09
+2018M10
+2018M11
+2018M12
+2019M01
+2019M02
+2019M03
+2019M04
+2019M05
+2019M06
+2019M07
+2019M08
+2019M09
+2019M10
+2019M11
+2019M12
+2020M01
+2020M02
+2020M03
+2020M04
+2020M05
+2020M06
+2020M07
+2020M08
+2020M09
+2020M10
+2020M11
+2020M12
+2021M01
+2021M02
+2021M03
+2021M04
+2021M05
+2021M06
+2021M07
+2021M08
+2021M09
+2021M10
+2021M11
+2021M12
+2022M01
+2022M02
+2022M03
+2022M04
+2022M05
+2022M06
+2022M07
+2022M08
+2022M09
+
+EN0108A5_20221201-161826.csv
+n�ringsgren SNI69
+1974M01
+1974M02
+1974M03
+1974M04
+1974M05
+1974M06
+1974M07
+1974M08
+1974M09
+1974M10
+1974M11
+1974M12
+1975M01
+1975M02
+1975M03
+1975M04
+1975M05
+1975M06
+1975M07
+1975M08
+1975M09
+1975M10
+1975M11
+1975M12
+1976M01
+1976M02
+1976M03
+1976M04
+1976M05
+1976M06
+1976M07
+1976M08
+1976M09
+1976M10
+1976M11
+1976M12
+1977M01
+1977M02
+1977M03
+1977M04
+1977M05
+1977M06
+1977M07
+1977M08
+1977M09
+1977M10
+1977M11
+1977M12
+1978M01
+1978M02
+1978M03
+1978M04
+1978M05
+1978M06
+1978M07
+1978M08
+1978M09
+1978M10
+1978M11
+1978M12
+1979M01
+1979M02
+1979M03
+1979M04
+1979M05
+1979M06
+1979M07
+1979M08
+1979M09
+1979M10
+1979M11
+1979M12
+1980M01
+1980M02
+1980M03
+1980M04
+1980M05
+1980M06
+1980M07
+1980M08
+1980M09
+1980M10
+1980M11
+1980M12
+1981M01
+1981M02
+1981M03
+1981M04
+1981M05
+1981M06
+1981M07
+1981M08
+1981M09
+1981M10
+1981M11
+1981M12
+1982M01
+1982M02
+1982M03
+1982M04
+1982M05
+1982M06
+1982M07
+1982M08
+1982M09
+1982M10
+1982M11
+1982M12
+1983M01
+1983M02
+1983M03
+1983M04
+1983M05
+1983M06
+1983M07
+1983M08
+1983M09
+1983M10
+1983M11
+1983M12
+1984M01
+1984M02
+1984M03
+1984M04
+1984M05
+1984M06
+1984M07
+1984M08
+1984M09
+1984M10
+1984M11
+1984M12
+1985M01
+1985M02
+1985M03
+1985M04
+1985M05
+1985M06
+1985M07
+1985M08
+1985M09
+1985M10
+1985M11
+1985M12
+1986M01
+1986M02
+1986M03
+1986M04
+1986M05
+1986M06
+1986M07
+1986M08
+1986M09
+1986M10
+1986M11
+1986M12
+1987M01
+1987M02
+1987M03
+1987M04
+1987M05
+1987M06
+1987M07
+1987M08
+1987M09
+1987M10
+1987M11
+1987M12
+1988M01
+1988M02
+1988M03
+1988M04
+1988M05
+1988M06
+1988M07
+1988M08
+1988M09
+1988M10
+1988M11
+1988M12
+1989M01
+1989M02
+1989M03
+1989M04
+1989M05
+1989M06
+1989M07
+1989M08
+1989M09
+1989M10
+1989M11
+1989M12
+
+EN0108A6_20221201-161859.csv
+kundkategori
+Antal byten 2004M04
+Antal byten 2004M05
+Antal byten 2004M06
+Antal byten 2004M07
+Antal byten 2004M08
+Antal byten 2004M09
+Antal byten 2004M10
+Antal byten 2004M11
+Antal byten 2004M12
+Antal byten 2005M01
+Antal byten 2005M02
+Antal byten 2005M03
+Antal byten 2005M04
+Antal byten 2005M05
+Antal byten 2005M06
+Antal byten 2005M07
+Antal byten 2005M08
+Antal byten 2005M09
+Antal byten 2005M10
+Antal byten 2005M11
+Antal byten 2005M12
+Antal byten 2006M01
+Antal byten 2006M02
+Antal byten 2006M03
+Antal byten 2006M04
+Antal byten 2006M05
+Antal byten 2006M06
+Antal byten 2006M07
+Antal byten 2006M08
+Antal byten 2006M09
+Antal byten 2006M10
+Antal byten 2006M11
+Antal byten 2006M12
+Antal byten 2007M01
+Antal byten 2007M02
+Antal byten 2007M03
+Antal byten 2007M04
+Antal byten 2007M05
+Antal byten 2007M06
+Antal byten 2007M07
+Antal byten 2007M08
+Antal byten 2007M09
+Antal byten 2007M10
+Antal byten 2007M11
+Antal byten 2007M12
+Antal byten 2008M01
+Antal byten 2008M02
+Antal byten 2008M03
+Antal byten 2008M04
+Antal byten 2008M05
+Antal byten 2008M06
+Antal byten 2008M07
+Antal byten 2008M08
+Antal byten 2008M09
+Antal byten 2008M10
+Antal byten 2008M11
+Antal byten 2008M12
+Antal byten 2009M01
+Antal byten 2009M02
+Antal byten 2009M03
+Antal byten 2009M04
+Antal byten 2009M05
+Antal byten 2009M06
+Antal byten 2009M07
+Antal byten 2009M08
+Antal byten 2009M09
+Antal byten 2009M10
+Antal byten 2009M11
+Antal byten 2009M12
+Antal byten 2010M01
+Antal byten 2010M02
+Antal byten 2010M03
+Antal byten 2010M04
+Antal byten 2010M05
+Antal byten 2010M06
+Antal byten 2010M07
+Antal byten 2010M08
+Antal byten 2010M09
+Antal byten 2010M10
+Antal byten 2010M11
+Antal byten 2010M12
+Antal byten 2011M01
+Antal byten 2011M02
+Antal byten 2011M03
+Antal byten 2011M04
+Antal byten 2011M05
+Antal byten 2011M06
+Antal byten 2011M07
+Antal byten 2011M08
+Antal byten 2011M09
+Antal byten 2011M10
+Antal byten 2011M11
+Antal byten 2011M12
+Antal byten 2012M01
+Antal byten 2012M02
+Antal byten 2012M03
+Antal byten 2012M04
+Antal byten 2012M05
+Antal byten 2012M06
+Antal byten 2012M07
+Antal byten 2012M08
+Antal byten 2012M09
+Antal byten 2012M10
+Antal byten 2012M11
+Antal byten 2012M12
+Antal byten 2013M01
+Antal byten 2013M02
+Antal byten 2013M03
+Antal byten 2013M04
+Antal byten 2013M05
+Antal byten 2013M06
+Antal byten 2013M07
+Antal byten 2013M08
+Antal byten 2013M09
+Antal byten 2013M10
+Antal byten 2013M11
+Antal byten 2013M12
+Antal byten 2014M01
+Antal byten 2014M02
+Antal byten 2014M03
+Antal byten 2014M04
+Antal byten 2014M05
+Antal byten 2014M06
+Antal byten 2014M07
+Antal byten 2014M08
+Antal byten 2014M09
+Antal byten 2014M10
+Antal byten 2014M11
+Antal byten 2014M12
+Antal byten 2015M01
+Antal byten 2015M02
+Antal byten 2015M03
+Antal byten 2015M04
+Antal byten 2015M05
+Antal byten 2015M06
+Antal byten 2015M07
+Antal byten 2015M08
+Antal byten 2015M09
+Antal byten 2015M10
+Antal byten 2015M11
+Antal byten 2015M12
+Antal byten 2016M01
+Antal byten 2016M02
+Antal byten 2016M03
+Antal byten 2016M04
+Antal byten 2016M05
+Antal byten 2016M06
+Antal byten 2016M07
+Antal byten 2016M08
+Antal byten 2016M09
+Antal byten 2016M10
+Antal byten 2016M11
+Antal byten 2016M12
+Antal byten 2017M01
+Antal byten 2017M02
+Antal byten 2017M03
+Antal byten 2017M04
+Antal byten 2017M05
+Antal byten 2017M06
+Antal byten 2017M07
+Antal byten 2017M08
+Antal byten 2017M09
+Antal byten 2017M10
+Antal byten 2017M11
+Antal byten 2017M12
+Antal byten 2018M01
+Antal byten 2018M02
+Antal byten 2018M03
+Antal byten 2018M04
+Antal byten 2018M05
+Antal byten 2018M06
+Antal byten 2018M07
+Antal byten 2018M08
+Antal byten 2018M09
+Antal byten 2018M10
+Antal byten 2018M11
+Antal byten 2018M12
+Antal byten 2019M01
+Antal byten 2019M02
+Antal byten 2019M03
+Antal byten 2019M04
+Antal byten 2019M05
+Antal byten 2019M06
+Antal byten 2019M07
+Antal byten 2019M08
+Antal byten 2019M09
+Antal byten 2019M10
+Antal byten 2019M11
+Antal byten 2019M12
+Antal byten 2020M01
+Antal byten 2020M02
+Antal byten 2020M03
+Antal byten 2020M04
+Antal byten 2020M05
+Antal byten 2020M06
+Antal byten 2020M07
+Antal byten 2020M08
+Antal byten 2020M09
+Antal byten 2020M10
+Antal byten 2020M11
+Antal byten 2020M12
+Antal byten 2021M01
+Antal byten 2021M02
+Antal byten 2021M03
+Antal byten 2021M04
+Antal byten 2021M05
+Antal byten 2021M06
+Antal byten 2021M07
+Antal byten 2021M08
+Antal byten 2021M09
+Antal byten 2021M10
+Antal byten 2021M11
+Antal byten 2021M12
+Antal byten 2022M01
+Antal byten 2022M02
+Antal byten 2022M03
+Antal byten 2022M04
+Antal byten 2022M05
+Antal byten 2022M06
+Antal byten 2022M07
+Antal byten 2022M08
+Antal byten 2022M09
+Bytesvolym, GWh 2004M04
+Bytesvolym, GWh 2004M05
+Bytesvolym, GWh 2004M06
+Bytesvolym, GWh 2004M07
+Bytesvolym, GWh 2004M08
+Bytesvolym, GWh 2004M09
+Bytesvolym, GWh 2004M10
+Bytesvolym, GWh 2004M11
+Bytesvolym, GWh 2004M12
+Bytesvolym, GWh 2005M01
+Bytesvolym, GWh 2005M02
+Bytesvolym, GWh 2005M03
+Bytesvolym, GWh 2005M04
+Bytesvolym, GWh 2005M05
+Bytesvolym, GWh 2005M06
+Bytesvolym, GWh 2005M07
+Bytesvolym, GWh 2005M08
+Bytesvolym, GWh 2005M09
+Bytesvolym, GWh 2005M10
+Bytesvolym, GWh 2005M11
+Bytesvolym, GWh 2005M12
+Bytesvolym, GWh 2006M01
+Bytesvolym, GWh 2006M02
+Bytesvolym, GWh 2006M03
+Bytesvolym, GWh 2006M04
+Bytesvolym, GWh 2006M05
+Bytesvolym, GWh 2006M06
+Bytesvolym, GWh 2006M07
+Bytesvolym, GWh 2006M08
+Bytesvolym, GWh 2006M09
+Bytesvolym, GWh 2006M10
+Bytesvolym, GWh 2006M11
+Bytesvolym, GWh 2006M12
+Bytesvolym, GWh 2007M01
+Bytesvolym, GWh 2007M02
+Bytesvolym, GWh 2007M03
+Bytesvolym, GWh 2007M04
+Bytesvolym, GWh 2007M05
+Bytesvolym, GWh 2007M06
+Bytesvolym, GWh 2007M07
+Bytesvolym, GWh 2007M08
+Bytesvolym, GWh 2007M09
+Bytesvolym, GWh 2007M10
+Bytesvolym, GWh 2007M11
+Bytesvolym, GWh 2007M12
+Bytesvolym, GWh 2008M01
+Bytesvolym, GWh 2008M02
+Bytesvolym, GWh 2008M03
+Bytesvolym, GWh 2008M04
+Bytesvolym, GWh 2008M05
+Bytesvolym, GWh 2008M06
+Bytesvolym, GWh 2008M07
+Bytesvolym, GWh 2008M08
+Bytesvolym, GWh 2008M09
+Bytesvolym, GWh 2008M10
+Bytesvolym, GWh 2008M11
+Bytesvolym, GWh 2008M12
+Bytesvolym, GWh 2009M01
+Bytesvolym, GWh 2009M02
+Bytesvolym, GWh 2009M03
+Bytesvolym, GWh 2009M04
+Bytesvolym, GWh 2009M05
+Bytesvolym, GWh 2009M06
+Bytesvolym, GWh 2009M07
+Bytesvolym, GWh 2009M08
+Bytesvolym, GWh 2009M09
+Bytesvolym, GWh 2009M10
+Bytesvolym, GWh 2009M11
+Bytesvolym, GWh 2009M12
+Bytesvolym, GWh 2010M01
+Bytesvolym, GWh 2010M02
+Bytesvolym, GWh 2010M03
+Bytesvolym, GWh 2010M04
+Bytesvolym, GWh 2010M05
+Bytesvolym, GWh 2010M06
+Bytesvolym, GWh 2010M07
+Bytesvolym, GWh 2010M08
+Bytesvolym, GWh 2010M09
+Bytesvolym, GWh 2010M10
+Bytesvolym, GWh 2010M11
+Bytesvolym, GWh 2010M12
+Bytesvolym, GWh 2011M01
+Bytesvolym, GWh 2011M02
+Bytesvolym, GWh 2011M03
+Bytesvolym, GWh 2011M04
+Bytesvolym, GWh 2011M05
+Bytesvolym, GWh 2011M06
+Bytesvolym, GWh 2011M07
+Bytesvolym, GWh 2011M08
+Bytesvolym, GWh 2011M09
+Bytesvolym, GWh 2011M10
+Bytesvolym, GWh 2011M11
+Bytesvolym, GWh 2011M12
+Bytesvolym, GWh 2012M01
+Bytesvolym, GWh 2012M02
+Bytesvolym, GWh 2012M03
+Bytesvolym, GWh 2012M04
+Bytesvolym, GWh 2012M05
+Bytesvolym, GWh 2012M06
+Bytesvolym, GWh 2012M07
+Bytesvolym, GWh 2012M08
+Bytesvolym, GWh 2012M09
+Bytesvolym, GWh 2012M10
+Bytesvolym, GWh 2012M11
+Bytesvolym, GWh 2012M12
+Bytesvolym, GWh 2013M01
+Bytesvolym, GWh 2013M02
+Bytesvolym, GWh 2013M03
+Bytesvolym, GWh 2013M04
+Bytesvolym, GWh 2013M05
+Bytesvolym, GWh 2013M06
+Bytesvolym, GWh 2013M07
+Bytesvolym, GWh 2013M08
+Bytesvolym, GWh 2013M09
+Bytesvolym, GWh 2013M10
+Bytesvolym, GWh 2013M11
+Bytesvolym, GWh 2013M12
+Bytesvolym, GWh 2014M01
+Bytesvolym, GWh 2014M02
+Bytesvolym, GWh 2014M03
+Bytesvolym, GWh 2014M04
+Bytesvolym, GWh 2014M05
+Bytesvolym, GWh 2014M06
+Bytesvolym, GWh 2014M07
+Bytesvolym, GWh 2014M08
+Bytesvolym, GWh 2014M09
+Bytesvolym, GWh 2014M10
+Bytesvolym, GWh 2014M11
+Bytesvolym, GWh 2014M12
+Bytesvolym, GWh 2015M01
+Bytesvolym, GWh 2015M02
+Bytesvolym, GWh 2015M03
+Bytesvolym, GWh 2015M04
+Bytesvolym, GWh 2015M05
+Bytesvolym, GWh 2015M06
+Bytesvolym, GWh 2015M07
+Bytesvolym, GWh 2015M08
+Bytesvolym, GWh 2015M09
+Bytesvolym, GWh 2015M10
+Bytesvolym, GWh 2015M11
+Bytesvolym, GWh 2015M12
+Bytesvolym, GWh 2016M01
+Bytesvolym, GWh 2016M02
+Bytesvolym, GWh 2016M03
+Bytesvolym, GWh 2016M04
+Bytesvolym, GWh 2016M05
+Bytesvolym, GWh 2016M06
+Bytesvolym, GWh 2016M07
+Bytesvolym, GWh 2016M08
+Bytesvolym, GWh 2016M09
+Bytesvolym, GWh 2016M10
+Bytesvolym, GWh 2016M11
+Bytesvolym, GWh 2016M12
+Bytesvolym, GWh 2017M01
+Bytesvolym, GWh 2017M02
+Bytesvolym, GWh 2017M03
+Bytesvolym, GWh 2017M04
+Bytesvolym, GWh 2017M05
+Bytesvolym, GWh 2017M06
+Bytesvolym, GWh 2017M07
+Bytesvolym, GWh 2017M08
+Bytesvolym, GWh 2017M09
+Bytesvolym, GWh 2017M10
+Bytesvolym, GWh 2017M11
+Bytesvolym, GWh 2017M12
+Bytesvolym, GWh 2018M01
+Bytesvolym, GWh 2018M02
+Bytesvolym, GWh 2018M03
+Bytesvolym, GWh 2018M04
+Bytesvolym, GWh 2018M05
+Bytesvolym, GWh 2018M06
+Bytesvolym, GWh 2018M07
+Bytesvolym, GWh 2018M08
+Bytesvolym, GWh 2018M09
+Bytesvolym, GWh 2018M10
+Bytesvolym, GWh 2018M11
+Bytesvolym, GWh 2018M12
+Bytesvolym, GWh 2019M01
+Bytesvolym, GWh 2019M02
+Bytesvolym, GWh 2019M03
+Bytesvolym, GWh 2019M04
+Bytesvolym, GWh 2019M05
+Bytesvolym, GWh 2019M06
+Bytesvolym, GWh 2019M07
+Bytesvolym, GWh 2019M08
+Bytesvolym, GWh 2019M09
+Bytesvolym, GWh 2019M10
+Bytesvolym, GWh 2019M11
+Bytesvolym, GWh 2019M12
+Bytesvolym, GWh 2020M01
+Bytesvolym, GWh 2020M02
+Bytesvolym, GWh 2020M03
+Bytesvolym, GWh 2020M04
+Bytesvolym, GWh 2020M05
+Bytesvolym, GWh 2020M06
+Bytesvolym, GWh 2020M07
+Bytesvolym, GWh 2020M08
+Bytesvolym, GWh 2020M09
+Bytesvolym, GWh 2020M10
+Bytesvolym, GWh 2020M11
+Bytesvolym, GWh 2020M12
+Bytesvolym, GWh 2021M01
+Bytesvolym, GWh 2021M02
+Bytesvolym, GWh 2021M03
+Bytesvolym, GWh 2021M04
+Bytesvolym, GWh 2021M05
+Bytesvolym, GWh 2021M06
+Bytesvolym, GWh 2021M07
+Bytesvolym, GWh 2021M08
+Bytesvolym, GWh 2021M09
+Bytesvolym, GWh 2021M10
+Bytesvolym, GWh 2021M11
+Bytesvolym, GWh 2021M12
+Bytesvolym, GWh 2022M01
+Bytesvolym, GWh 2022M02
+Bytesvolym, GWh 2022M03
+Bytesvolym, GWh 2022M04
+Bytesvolym, GWh 2022M05
+Bytesvolym, GWh 2022M06
+Bytesvolym, GWh 2022M07
+Bytesvolym, GWh 2022M08
+Bytesvolym, GWh 2022M09
+
+EN0108B1_20221201-160553.csv
+n�ringsgren SNI 2007
+2009M01
+2009M02
+2009M03
+2009M04
+2009M05
+2009M06
+2009M07
+2009M08
+2009M09
+2009M10
+2009M11
+2009M12
+2010M01
+2010M02
+2010M03
+2010M04
+2010M05
+2010M06
+2010M07
+2010M08
+2010M09
+2010M10
+2010M11
+2010M12
+2011M01
+2011M02
+2011M03
+2011M04
+2011M05
+2011M06
+2011M07
+2011M08
+2011M09
+2011M10
+2011M11
+2011M12
+2012M01
+2012M02
+2012M03
+2012M04
+2012M05
+2012M06
+2012M07
+2012M08
+2012M09
+2012M10
+2012M11
+2012M12
+2013M01
+2013M02
+2013M03
+2013M04
+2013M05
+2013M06
+2013M07
+2013M08
+2013M09
+2013M10
+2013M11
+2013M12
+2014M01
+2014M02
+2014M03
+2014M04
+2014M05
+2014M06
+2014M07
+2014M08
+2014M09
+2014M10
+2014M11
+2014M12
+2015M01
+2015M02
+2015M03
+2015M04
+2015M05
+2015M06
+2015M07
+2015M08
+2015M09
+2015M10
+2015M11
+2015M12
+2016M01
+2016M02
+2016M03
+2016M04
+2016M05
+2016M06
+2016M07
+2016M08
+2016M09
+2016M10
+2016M11
+2016M12
+2017M01
+2017M02
+2017M03
+2017M04
+2017M05
+2017M06
+2017M07
+2017M08
+2017M09
+2017M10
+2017M11
+2017M12
+2018M01
+2018M02
+2018M03
+2018M04
+2018M05
+2018M06
+2018M07
+2018M08
+2018M09
+2018M10
+2018M11
+2018M12
+2019M01
+2019M02
+2019M03
+2019M04
+2019M05
+2019M06
+2019M07
+2019M08
+2019M09
+2019M10
+2019M11
+2019M12
+2020M01
+2020M02
+2020M03
+2020M04
+2020M05
+2020M06
+2020M07
+2020M08
+2020M09
+2020M10
+2020M11
+2020M12
+2021M01
+2021M02
+2021M03
+2021M04
+2021M05
+2021M06
+2021M07
+2021M08
+2021M09
+2021M10
+2021M11
+2021M12
+2022M01
+2022M02
+2022M03
+2022M04
+2022M05
+2022M06
+2022M07
+2022M08
+2022M09
+
+EN0201A3_20221201-160229.csv
+energib�rare
+energifl�den
+1984K1
+1984K2
+1984K3
+1984K4
+1985K1
+1985K2
+1985K3
+1985K4
+1986K1
+1986K2
+1986K3
+1986K4
+1987K1
+1987K2
+1987K3
+1987K4
+1988K1
+1988K2
+1988K3
+1988K4
+1989K1
+1989K2
+1989K3
+1989K4
+1990K1
+1990K2
+1990K3
+1990K4
+1991K1
+1991K2
+1991K3
+1991K4
+1992K1
+1992K2
+1992K3
+1992K4
+1993K1
+1993K2
+1993K3
+1993K4
+1994K1
+1994K2
+1994K3
+1994K4
+1995K1
+1995K2
+1995K3
+1995K4
+1996K1
+1996K2
+1996K3
+1996K4
+1997K1
+1997K2
+1997K3
+1997K4
+1998K1
+1998K2
+1998K3
+1998K4
+1999K1
+1999K2
+1999K3
+1999K4
+2000K1
+2000K2
+2000K3
+2000K4
+2001K1
+2001K2
+2001K3
+2001K4
+2002K1
+2002K2
+2002K3
+2002K4
+2003K1
+2003K2
+2003K3
+2003K4
+2004K1
+2004K2
+2004K3
+2004K4
+2005K1
+2005K2
+2005K3
+2005K4
+2006K1
+2006K2
+2006K3
+2006K4
+2007K1
+2007K2
+2007K3
+2007K4
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+2010K1
+2010K2
+2010K3
+2010K4
+2011K1
+2011K2
+2011K3
+2011K4
+2012K1
+2012K2
+2012K3
+2012K4
+2013K1
+2013K2
+2013K3
+2013K4
+2014K1
+2014K2
+2014K3
+2014K4
+2015K1
+2015K2
+2015K3
+2015K4
+2016K1
+2016K2
+2016K3
+2016K4
+2017K1
+2017K2
+2017K3
+2017K4
+
+EN0201A5_20221201-160034.csv
+energib�rare
+energifl�den
+1984K1
+1984K2
+1984K3
+1984K4
+1985K1
+1985K2
+1985K3
+1985K4
+1986K1
+1986K2
+1986K3
+1986K4
+1987K1
+1987K2
+1987K3
+1987K4
+1988K1
+1988K2
+1988K3
+1988K4
+1989K1
+1989K2
+1989K3
+1989K4
+1990K1
+1990K2
+1990K3
+1990K4
+1991K1
+1991K2
+1991K3
+1991K4
+1992K1
+
+EN0201A5_20221201-160053.csv
+energib�rare
+energifl�den
+1992K2
+1992K3
+1992K4
+1993K1
+1993K2
+1993K3
+1993K4
+1994K1
+1994K2
+1994K3
+1994K4
+1995K1
+1995K2
+1995K3
+1995K4
+1996K1
+1996K2
+1996K3
+1996K4
+1997K1
+1997K2
+1997K3
+1997K4
+1998K1
+1998K2
+1998K3
+1998K4
+1999K1
+1999K2
+1999K3
+1999K4
+2000K1
+2000K2
+2000K3
+2000K4
+2001K1
+2001K2
+2001K3
+2001K4
+2002K1
+2002K2
+2002K3
+2002K4
+2003K1
+2003K2
+2003K3
+2003K4
+2004K1
+2004K2
+2004K3
+2004K4
+2005K1
+2005K2
+2005K3
+2005K4
+2006K1
+2006K2
+2006K3
+2006K4
+2007K1
+2007K2
+2007K3
+2007K4
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+
+EN0201A5_20221201-160207.csv
+energib�rare
+energifl�den
+1992K2
+1992K3
+1992K4
+1993K1
+1993K2
+1993K3
+1993K4
+1994K1
+1994K2
+1994K3
+1994K4
+1995K1
+1995K2
+1995K3
+1995K4
+1996K1
+1996K2
+1996K3
+1996K4
+1997K1
+1997K2
+1997K3
+1997K4
+1998K1
+1998K2
+1998K3
+1998K4
+1999K1
+1999K2
+1999K3
+1999K4
+2000K1
+2000K2
+2000K3
+2000K4
+2001K1
+2001K2
+2001K3
+2001K4
+2002K1
+2002K2
+2002K3
+2002K4
+2003K1
+2003K2
+2003K3
+2003K4
+2004K1
+2004K2
+2004K3
+2004K4
+2005K1
+2005K2
+2005K3
+2005K4
+2006K1
+2006K2
+2006K3
+2006K4
+2007K1
+2007K2
+2007K3
+2007K4
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+
+EN0201A8_20221201-155420.csv
+energib�rare
+energifl�den
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+2010K1
+2010K2
+2010K3
+2010K4
+2011K1
+2011K2
+2011K3
+2011K4
+2012K1
+2012K2
+2012K3
+2012K4
+2013K1
+2013K2
+2013K3
+2013K4
+2014K1
+2014K2
+2014K3
+2014K4
+2015K1
+2015K2
+2015K3
+2015K4
+2016K1
+2016K2
+2016K3
+2016K4
+2017K1
+2017K2
+2017K3
+2017K4
+
+EN0201A8_20221201-155705.csv
+energib�rare
+energifl�den
+2008K1
+2008K2
+2008K3
+2008K4
+2009K1
+2009K2
+2009K3
+2009K4
+2010K1
+2010K2
+2010K3
+2010K4
+2011K1
+2011K2
+2011K3
+2011K4
+2012K1
+2012K2
+2012K3
+2012K4
+2013K1
+2013K2
+2013K3
+2013K4
+2014K1
+2014K2
+2014K3
+2014K4
+2015K1
+2015K2
+2015K3
+2015K4
+2016K1
+2016K2
+2016K3
+2016K4
+2017K1
+2017K2
+2017K3
+2017K4
+
+EN0202A1_20221201-163225.csv
+energib�rare
+energifl�den
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+
+EN0202A3_20221201-163210.csv
+energib�rare
+energifl�den
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+
+EN0203AB_20221201-145612.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-145644.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-152854.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-152954.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-153033.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-153355.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-153431.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-153513.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-153616.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-153651.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154004.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154043.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154126.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154140.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154150.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154158.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154207.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154216.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154428.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154441.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154452.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154500.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154508.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154520.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154529.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154539.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154550.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154559.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154609.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154620.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154632.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154644.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154653.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154703.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154745.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154756.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154804.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154811.csv
+region
+kategori
+energityp
+1990
+
+EN0203AB_20221201-154819.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154826.csv
+region
+kategori
+energityp
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+
+EN0203AB_20221201-154835.csv
+region
+kategori
+energityp
+1990
+
+EN0203AC_20221201-141231.csv
+region
+produktionss�tt
+br�nsletyp
+2009
+2010
+2011
+2012
+2013
+
+EN0203AC_20221201-141255.csv
+region
+produktionss�tt
+br�nsletyp
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+EN0203AC_20221201-145005.csv
+region
+produktionss�tt
+br�nsletyp
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+EN0203AC_20221201-145050.csv
+region
+produktionss�tt
+br�nsletyp
+2009
+2010
+2011
+2012
+
+EN0203AC_20221201-145132.csv
+region
+produktionss�tt
+br�nsletyp
+2009
+2010
+2011
+2012
+
+EN0203AC_20221201-163304.csv
+region
+produktionss�tt
+br�nsletyp
+2009
+2010
+2011
+2012
+
+EN0203AC_20221201-163318.csv
+region
+produktionss�tt
+br�nsletyp
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+EN0203AD_20221201-141125.csv
+region
+produktionss�tt
+br�nsletyp
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+EN0203AE_20221201-145253.csv
+region
+f�rbrukarkategori
+br�nsletyp
+2016
+2017
+2018
+2019
+2020
+
+EN0203AE_20221201-145332.csv
+region
+f�rbrukarkategori
+br�nsletyp
+2011
+2012
+2013
+2014
+2015
+
+EN0203AE_20221201-145355.csv
+region
+f�rbrukarkategori
+br�nsletyp
+2009
+2010
+

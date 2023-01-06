@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 
-# large file
+# large files
 data/to-use/
 
 # presentations
