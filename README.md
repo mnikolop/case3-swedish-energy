@@ -49,7 +49,7 @@ It is possible to create forecasting models to match consumption to production o
   - Have regions (except 1)
   - Contain info about production and consumption of energy
 
-### Data grouping
+### [Data grouping](code\3-data-file-prep.ipynb)
 
 The energy types in the data were too many, so they were grouped in the following way.
 
@@ -251,7 +251,7 @@ summa br�nsletyp -->
 
 ### Region selection
 
-The dataset contains information for all 312 regions in sweden. There was a selction of the following regions to reduce the amount of data proccessed in this version of teh project.
+The dataset contains information for all 312 regions in sweden. There was a selction of the following regions to reduce the amount of data proccessed in this version of the project.
 
 - 0160 T�by
 - 0117 �ster�ker
@@ -264,15 +264,102 @@ The dataset contains information for all 312 regions in sweden. There was a selc
 - 2581 Pite�
 - 1480 G�teborg’
 
-## Data investigation & descriptive analysis
+## [Data investigation & descriptive analysis](code\4-descriptive-analysis-data-edit.py)
 
 To increase the efficiany of the analysis the datasets were grouped by all the categorical variables they contain.  
-For eas of analysis Power BI (PBI) was used to create graphs.
+For eas of analysis [Power BI (PBI)](code\4.5-descriptive-analysis.pbix) was used to create graphs.
+The following is some of the observations tht can be made from those visualisations:
+For combustables non-renuable energy types have been stabilasing over the years
 
-## Model generation
+- For combustables renuable energy types have been increasing over the years and have oevrtaken them in the last few and stabilised
+- For energy production/consumption non-renuables have been fluctuating though the years
+- For energy production/consumption renuables have been stable though the years and always lower than the non-renuables
+- For energy data both renuable and non-renuable energytypes are stable thought the years with non renuable being a lot less over time
+- For energy data all categories except unknown are following similar trends over the years with renuable being highter than non-renuable
+- For regional energy production all energy consumption types follow similar trends over time with renuable being higher than the rest
+
+## [Model generation](code\5-forecasting.ipynb)
+
+Each of the datasets was again grouped by the categorical vaiables it contains. They were then iterated for all of them and each of the possible combinations of the categorical vallues in them was prccessed individually.
+
+For the generation of the model the following forecasters were tested. All forecasters are from the [sktime](https://www.sktime.org/en/v0.9.0/api_reference/forecasting.html) library.
+
+- NaiveForecaster
+- TrendForecaster
+- PolynomialTrendForecaster
+- AutoETS
+- AutoARIMA
+- ARIMA
+- ThetaForecaster
+- BATS
+- TBATS
+- Croston
+- EnsembleForecaster\*
+- AutoEnsembleForecaster\*
+- StackingForecaster\*
+
+> \* These are ensemble forecaters meaning they run a list of provided forecaster (in some cases they also iterate them to find teh best weights for them), and provide the result after the application. The list originally contained all the other listed forecasters.
+
+After the forecasters were run and graphed a visual comparison and selection was done in order to select the best forecaster for each dataset.
+
+It was attempted to identify the best combination for the ensemble forecasters as well, but he posible combinations proved too many to do manually.
+
+> _Note:_ The Prophet (Facebook) model was implemented and then discarted since it was forcing seasonality on the data.
 
 ## Results
 
+For each of the dataset we ended up having all the afformentioned models run for each of the combnations of categorical values. The results for each of them was visually inspected and the best performing forecaster was selected in order to identify the best performing one for each dataset. Bellow we can see the tallies.
+
+- leveranser_flytande
+
+  - theta 5
+  - ARIMA: 8
+  - autoETS: 2
+  - autoARIMA: 1
+
+- elproduction_bransleanvandning_grouped
+
+  - \-: 2
+  - StackingForecaster: 1
+  - ARIMA: 4
+  - autoARIMA: 1
+
+- fjarrvarmeproduktion
+
+  - ARIMA: 7
+  - autoARIMA: 1
+  - \-: 2
+  - StackingForecaster: 2
+
+- slutanvandning
+
+  - autoARIMA: 1
+  - theta: 2
+  - ARIMA: 1
+  - \-: 6
+
+- bransleforbrukning
+  - autoARIMA: 1
+  - ARIMA: 2
+  - theta: 1
+
+energidata
+
+- EnsembleForecaster:
+- AutoEnsembleForecaster: 2
+- \-: 4
+- TBATS: 1
+- theta: 2
+- StackingForecaster: 2
+- ARIMA: 1
+
 ---
 
-## Next steps
+# Next steps
+
+Model refinement
+Refine the groupings
+Try and get more models to run on more datasets
+Model implementation
+Move model to a production environment
+Store model results
