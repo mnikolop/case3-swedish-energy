@@ -319,7 +319,7 @@ For each of the dataset we ended up having all the afformentioned models run for
 
 - elproduction_bransleanvandning_grouped
 
-  - \-: 2
+  - \-: 2\*\*
   - StackingForecaster: 1
   - ARIMA: 4
   - autoARIMA: 1
@@ -328,7 +328,7 @@ For each of the dataset we ended up having all the afformentioned models run for
 
   - ARIMA: 7
   - autoARIMA: 1
-  - \-: 2
+  - \-: 2\*\*
   - StackingForecaster: 2
 
 - slutanvandning
@@ -336,7 +336,7 @@ For each of the dataset we ended up having all the afformentioned models run for
   - autoARIMA: 1
   - theta: 2
   - ARIMA: 1
-  - \-: 6
+  - \-: 6\*\*
 
 - bransleforbrukning
   - autoARIMA: 1
@@ -347,19 +347,22 @@ energidata
 
 - EnsembleForecaster:
 - AutoEnsembleForecaster: 2
-- \-: 4
+- \-: 4\*\*
 - TBATS: 1
 - theta: 2
 - StackingForecaster: 2
 - ARIMA: 1
 
+> \*\* Some of the datasets have highily fluctuating data meaning that none of the forecasters can give accurate predictions
+
 ---
 
 # Next steps
 
-Model refinement
-Refine the groupings
-Try and get more models to run on more datasets
-Model implementation
-Move model to a production environment
-Store model results
+- Productionise data pipeline
+  - The steps performed to make the datasets usable and fit for purpose could have been performed in a database that was calling the original APIs instead of on the exported csv files.
+- Refine the groupings
+  - The groupings of energy types are not verified and could be reworked to be more reflective of the industry.
+- Store results and compare with actuals
+  - As with any forecasting model it is important to verify the results of the model with actual data when they are eventually generated to verify and adjust the model.
+- Compare production and consumption predictions
