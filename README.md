@@ -353,7 +353,7 @@ energidata
 - StackingForecaster: 2
 - ARIMA: 1
 
-> \*\* Some of the datasets have highily fluctuating data meaning that none of the forecasters can give accurate predictions
+> \*\* Some of the datasets have highily fluctuating data, meaning that none of the forecasters can give accurate predictions.
 
 ---
 
